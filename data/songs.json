@@ -5,7 +5,7 @@
     "number": 1,
     "page": 1,
     "title_ur": "اوہ دھن ہے",
-    "title_en": "Oh Dhan Hai (Blessed is the One)",
+    "title_en": "Oh Dhan Hai - (Blessed is the One)",
     "source": "Sialkot Convention",
     "category": "Zaboor",
     "lyrics_ur": "اوہ دھن ہے جو نہ منّدا ہے صلاح شریراں دی\nنہ ٹُردا اے اوہ بُریاں دے راہ اُتے کدی وِی\nOh dhan hi jo na manda hi salah shariran di\nNa turda aye oh buryan de rah utay kadi we\n\nمخولیاں دے جلسے وِچّ نہ کدی بہندا اے\nپر دِنے راتیں شرع نُوں اوہ سوچدا رہندا اے\nMakholyan de jalsay wich na kadi behnda aye\nPar dinay ratein sharah nu oh sochda rehanda aye\n\nحال اوہدا اے اوس بُوٹے وانگ جو لگا پانی تے\nپھل اپنے ویلے دیوے گا نہ پَتر سُکّن گے\nHal ohda aye os bootay wang jo laga pani te\nPhal apnay welay devayga no patar sukan gey\n\nاوہ اپنے سارے کماں وِچ پھل دائک ہووے گا\nپر تُوڑٹی وانگر وا دے نال بدکار اُڈ جاوے گا\nOh apnay saray kamaan wich phal daik howey ga\nPar torhi wangar wa de nal badkar ud jawey ga\n\nشریر تے وچ کچہری دے کھلو نہ سکن گے\nنے منڈلی وچ سچیاراں دِی بدکار نہ ٹھہرن گے\nSharir te wich kachehri de khalo na sakan ge\nTe mandli wich sachyarian de badkar na thehran ge\n\nکیوں جو یہوّاہ پاک خُدا راہ جاندا صادق دا\nپر راہ جو ہے شریراں دا سو اُڈ پُڈ جاوےگا\nKyoun jo Jehowah pak Khuda rah janda sadiq da\nPar rah jo hi shariran da so ud pud jawey ga",
@@ -8300,6 +8300,26 @@
       "geet",
       "yessu",
       "mohabbat"
+    ]
+  },
+  {
+    "id": "hm-271",
+    "type": "hymn",
+    "number": 271,
+    "page": 271,
+    "title_ur": "Sialkot Convention | سیالکوٹ کنونشن",
+    "title_en": "Zindah Hai Ab Aur Zindah Rahayga - Test new Hymn",
+    "source": "",
+    "category": "Zaboor",
+    "lyrics_ur": "Geet\nSialkot Convention | سیالکوٹ کنونشن\nزندہ ہے اَب اور زندہ رہے گا میرا مُنجی پیارا\nمیرے لئے سوُلی پر چڑھ کر اُس نے دیا ہے کُفارہ\nZinda hai ab or zinda rahey ga mera munaji pyara\nMerey liye sooli par charh kar os ne diya hai kaffara\nمہریں لگا کر قبر پہ آئے اور وہاں پہ پہرے بِٹھائے\nقبر پہ رکھا پتھر بھارا\nMuhrain laga kar qabar peh aye Aur wahaan par pehrey bitaye\nQabar peh rakha pather bhara\nصبح سویرے مریم آئی خُوشبو دار وہ چیزیں لائی\nدیکھا آ کر عجب نظارہ\nSubaha saweray Maryam aai Kushboodar woh cheizain lai\nDekha aa kar ajab nazara\nدیکھ کے خالی قبر کو روئی لاش مسیح کی لے گیا کوئی\nمالی سمجھ کر اُس کو پُکارا\nDekh keh khali qabar ko rowi Lash Masih ki ley geya koi\nMali samajh kar oss ko pukara\nمردوں میں مَت ڈھونڈو ا س کو جائو گلیل میں دیکھو اسکو\nبھائیوں سے کہنا ماجرا سارا\nMurdon mein mat dhondo Usko Jao Galeel mein dekho Usko\nBhahion se kehna majra sara\nدُنیا کو خُوشخبری سُناو زندہ مسیح کے پاس لے آو\nاَب ہے ضیاء یہ کام ہمارا\nDuniya ko khush khabri sounao Zinda Masih key pas lay aao\nUb hai Zia yeh kaam hamara",
+    "language": [
+      "ur",
+      "pa"
+    ],
+    "tags": [
+      "geet",
+      "yessu",
+      "test"
     ]
   },
   {
