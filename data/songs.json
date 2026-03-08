@@ -8303,47 +8303,120 @@
     ]
   },
   {
-    "id": "prayer-001",
+    "id": "prayer-001-ur",
     "type": "prayer",
     "number": 451,
     "page": 451,
     "title_ur": "دعائے ربانی",
-    "title_en": "The Lord's Prayer",
+    "title_en": "The Lord's Prayer (Urdu)",
     "source": "Matthew 6:9-13",
     "category": "Prayers",
-    "lyrics_ur": "اے ہمارے باپ جو آسمان پر ہے،\nتیرا نام پاک مانا جائے،\nتیری بادشاہی آئے،\nتیری مرضی جیسی آسمان پر پوری ہوتی ہے،\nزمین پر بھی ہو،\nہماری روز کی روٹی آج ہمیں دے،\nاور جس طرح ہم اپنے قصورواروں کو بخشتے ہیں\nتو ہمارے قصور ہمیں بخش،\nاور ہمیں آزمائش میں نہ پڑنے دے،\nبلکہ ہمیں برائی سے بچا،\n[کیونکہ بادشاہی اور قدرت اور جلال ہمیشہ تیرا ہی ہے۔ آمین۔]\n\n— — — — —\n\nAe hamare Baap jo aasman par hai,\nTera naam paak maana jaye,\nTeri badshahi aaye,\nTeri marzi jaise aasman par poori hoti hai,\nZameen par bhi ho,\nHamari roz ki roti aaj hamein de,\nAur jis tarah hum apne qasoorwaaron ko bakhshte hain\nTu hamare qasoor hamein bakhsh,\nAur hamein aazmaish mein parne na de,\nBalke hamein burai se bacha,\n[Kyunke badshahi aur qudrat aur jalaal hamesha tera hi hai. Ameen.]\n\n— — — — —\n\nOur Father in heaven,\nHallowed be Your name.\nYour kingdom come,\nYour will be done,\nOn earth as it is in heaven.\nGive us today our daily bread,\nAnd forgive us our sins,\nAs we forgive those who sin against us.\nAnd lead us not into temptation,\nBut deliver us from evil.\n[For Yours is the kingdom, and the power, and the glory, forever and ever. Amen.]",
-    "language": [
-      "ur",
-      "en"
-    ],
-    "tags": [
-      "prayer",
-      "lords prayer",
-      "matthew",
-      "father",
-      "kingdom"
-    ]
+    "lyrics_ur": "اے ہمارے باپ جو آسمان پر ہے،\nتیرا نام پاک مانا جائے،\nتیری بادشاہی آئے،\nتیری مرضی جیسی آسمان پر پوری ہوتی ہے،\nزمین پر بھی ہو،\nہماری روز کی روٹی آج ہمیں دے،\nاور جس طرح ہم اپنے قصورواروں کو بخشتے ہیں\nتو ہمارے قصور ہمیں بخش،\nاور ہمیں آزمائش میں نہ پڑنے دے،\nبلکہ ہمیں برائی سے بچا،\n[کیونکہ بادشاہی اور قدرت اور جلال ہمیشہ تیرا ہی ہے۔ آمین۔]",
+    "language": ["ur"],
+    "tags": ["prayer", "lords prayer", "matthew", "father", "kingdom"]
   },
   {
-    "id": "creed-001",
+    "id": "prayer-001-roman",
+    "type": "prayer",
+    "number": 451,
+    "page": 451,
+    "title_ur": "دعائے ربانی",
+    "title_en": "The Lord's Prayer (Roman Urdu)",
+    "source": "Matthew 6:9-13",
+    "category": "Prayers",
+    "lyrics_ur": "Ae hamare Baap jo aasman par hai,\nTera naam paak maana jaye,\nTeri badshahi aaye,\nTeri marzi jaise aasman par poori hoti hai,\nZameen par bhi ho,\nHamari roz ki roti aaj hamein de,\nAur jis tarah hum apne qasoorwaaron ko bakhshte hain\nTu hamare qasoor hamein bakhsh,\nAur hamein aazmaish mein parne na de,\nBalke hamein burai se bacha,\n[Kyunke badshahi aur qudrat aur jalaal hamesha tera hi hai. Ameen.]",
+    "language": ["ur"],
+    "tags": ["prayer", "lords prayer", "matthew", "father", "kingdom"]
+  },
+  {
+    "id": "prayer-001-en",
+    "type": "prayer",
+    "number": 451,
+    "page": 451,
+    "title_ur": "دعائے ربانی",
+    "title_en": "The Lord's Prayer (English)",
+    "source": "Matthew 6:9-13",
+    "category": "Prayers",
+    "lyrics_ur": "Our Father in heaven,\nHallowed be Your name.\nYour kingdom come,\nYour will be done,\nOn earth as it is in heaven.\nGive us today our daily bread,\nAnd forgive us our sins,\nAs we forgive those who sin against us.\nAnd lead us not into temptation,\nBut deliver us from evil.\n[For Yours is the kingdom, and the power, and the glory, forever and ever. Amen.]",
+    "language": ["en"],
+    "tags": ["prayer", "lords prayer", "matthew", "father", "kingdom"]
+  },
+  {
+    "id": "creed-001-ur",
     "type": "prayer",
     "number": 452,
     "page": 452,
     "title_ur": "رسولوں کا عقیدہ",
-    "title_en": "The Apostles' Creed",
+    "title_en": "The Apostles' Creed (Urdu)",
     "source": "Traditional Creed",
     "category": "Prayers",
-    "lyrics_ur": "میں ایمان رکھتا ہوں خدا باپ قادر مطلق پر،\nجو آسمان اور زمین کا خالق ہے۔\nاور یسوع مسیح پر، اس کے اکلوتے بیٹے پر، ہمارے خداوند پر،\nجو روح القدس کی قدرت سے پیدا ہوا،\nکنواری مریم سے جنم لیا،\nپینطس پیلاطس کے عہد میں دکھ اٹھایا،\nمصلوب ہوا، مرا اور دفن ہوا،\nپاتال میں اترا،\nتیسرے دن مردوں میں سے جی اٹھا،\nآسمان پر چڑھ گیا،\nاور خدا باپ قادر مطلق کے دائیں ہاتھ بیٹھا ہے،\nوہاں سے وہ زندوں اور مردوں کی عدالت کے لیے آئے گا۔\nمیں ایمان رکھتا ہوں روح القدس پر،\nایک پاک عالمگیر کلیسیا پر،\nمقدسین کی رفاقت پر،\nگناہوں کی معافی پر،\nجسم کی قیامت پر،\nاور ہمیشہ کی زندگی پر۔\nآمین۔\n\n— — — — —\n\nMain emaan rakhta hoon Khuda Baap Qadir Mutlaq par,\nJo aasman aur zameen ka Khaliq hai.\nAur Yeshu Masih par, us ke iklaute Bete par, hamare Khodawand par,\nJo Rooh ul Qudus ki qudrat se paida hua,\nKanwari Maryam se janam liya,\nPintus Pilatus ke ahad mein dukh uthaya,\nMasloob hua, mara aur dafan hua,\nPaataal mein utra,\nTeesre din murdon mein se ji utha,\nAasman par charh gaya,\nAur Khuda Baap Qadir Mutlaq ke dayen haath baitha hai,\nWahan se woh zindon aur murdon ki adalat ke liye aayega.\nMain emaan rakhta hoon Rooh ul Qudus par,\nEk paak aalamgeer Kaleesia par,\nMuqaddaseen ki rafaqat par,\nGunaahon ki maafi par,\nJism ki qiyamat par,\nAur hamesha ki zindagi par.\nAmeen.\n\n— — — — —\n\nI believe in God, the Father Almighty,\nCreator of heaven and earth.\nAnd in Jesus Christ, His only Son, our Lord,\nWho was conceived by the Holy Spirit,\nBorn of the Virgin Mary,\nSuffered under Pontius Pilate,\nWas crucified, died, and was buried,\nHe descended to the dead,\nOn the third day He rose again,\nHe ascended into heaven,\nAnd is seated at the right hand of God the Father Almighty,\nFrom there He will come to judge the living and the dead.\nI believe in the Holy Spirit,\nThe holy catholic Church,\nThe communion of saints,\nThe forgiveness of sins,\nThe resurrection of the body,\nAnd the life everlasting.\nAmen.",
-    "language": [
-      "ur",
-      "en"
-    ],
-    "tags": [
-      "creed",
-      "apostles",
-      "belief",
-      "trinity",
-      "salvation"
-    ]
+    "lyrics_ur": "میں ایمان رکھتا ہوں خدا باپ قادر مطلق پر،\nجو آسمان اور زمین کا خالق ہے۔\nاور یسوع مسیح پر، اس کے اکلوتے بیٹے پر، ہمارے خداوند پر،\nجو روح القدس کی قدرت سے پیدا ہوا،\nکنواری مریم سے جنم لیا،\nپینطس پیلاطس کے عہد میں دکھ اٹھایا،\nمصلوب ہوا، مرا اور دفن ہوا،\nپاتال میں اترا،\nتیسرے دن مردوں میں سے جی اٹھا،\nآسمان پر چڑھ گیا،\nاور خدا باپ قادر مطلق کے دائیں ہاتھ بیٹھا ہے،\nوہاں سے وہ زندوں اور مردوں کی عدالت کے لیے آئے گا۔\nمیں ایمان رکھتا ہوں روح القدس پر،\nایک پاک عالمگیر کلیسیا پر،\nمقدسین کی رفاقت پر،\nگناہوں کی معافی پر،\nجسم کی قیامت پر،\nاور ہمیشہ کی زندگی پر۔\nآمین۔",
+    "language": ["ur"],
+    "tags": ["creed", "apostles", "belief", "trinity", "salvation"]
+  },
+  {
+    "id": "creed-001-roman",
+    "type": "prayer",
+    "number": 452,
+    "page": 452,
+    "title_ur": "رسولوں کا عقیدہ",
+    "title_en": "The Apostles' Creed (Roman Urdu)",
+    "source": "Traditional Creed",
+    "category": "Prayers",
+    "lyrics_ur": "Main emaan rakhta hoon Khuda Baap Qadir Mutlaq par,\nJo aasman aur zameen ka Khaliq hai.\nAur Yeshu Masih par, us ke iklaute Bete par, hamare Khodawand par,\nJo Rooh ul Qudus ki qudrat se paida hua,\nKanwari Maryam se janam liya,\nPintus Pilatus ke ahad mein dukh uthaya,\nMasloob hua, mara aur dafan hua,\nPaataal mein utra,\nTeesre din murdon mein se ji utha,\nAasman par charh gaya,\nAur Khuda Baap Qadir Mutlaq ke dayen haath baitha hai,\nWahan se woh zindon aur murdon ki adalat ke liye aayega.\nMain emaan rakhta hoon Rooh ul Qudus par,\nEk paak aalamgeer Kaleesia par,\nMuqaddaseen ki rafaqat par,\nGunaahon ki maafi par,\nJism ki qiyamat par,\nAur hamesha ki zindagi par.\nAmeen.",
+    "language": ["ur"],
+    "tags": ["creed", "apostles", "belief", "trinity", "salvation"]
+  },
+  {
+    "id": "creed-001-en",
+    "type": "prayer",
+    "number": 452,
+    "page": 452,
+    "title_ur": "رسولوں کا عقیدہ",
+    "title_en": "The Apostles' Creed (English)",
+    "source": "Traditional Creed",
+    "category": "Prayers",
+    "lyrics_ur": "I believe in God, the Father Almighty,\nCreator of heaven and earth.\nAnd in Jesus Christ, His only Son, our Lord,\nWho was conceived by the Holy Spirit,\nBorn of the Virgin Mary,\nSuffered under Pontius Pilate,\nWas crucified, died, and was buried,\nHe descended to the dead,\nOn the third day He rose again,\nHe ascended into heaven,\nAnd is seated at the right hand of God the Father Almighty,\nFrom there He will come to judge the living and the dead.\nI believe in the Holy Spirit,\nThe holy catholic Church,\nThe communion of saints,\nThe forgiveness of sins,\nThe resurrection of the body,\nAnd the life everlasting.\nAmen.",
+    "language": ["en"],
+    "tags": ["creed", "apostles", "belief", "trinity", "salvation"]
+  },
+  {
+    "id": "communion-ur",
+    "type": "prayer",
+    "number": 453,
+    "page": 453,
+    "title_ur": "عشائے ربانی",
+    "title_en": "Holy Communion (Urdu)",
+    "source": "Traditional",
+    "category": "Prayers",
+    "lyrics_ur": "عشائے ربانی کی ترتیب\nگیت یا زبور\nپاکیزگی کے لئے دعا\nپریسبٹر : خداوند تمہارے ساتھ ہو۔\nجماعت : تیری روح کے ساتھ بھی ہے ۔\nپریسبٹر : آؤ ہم دعا کریں ۔\nاے قادرِ مطلق خدا، تیرے آگے سب کے دل کا حال کھُلا ہے ۔ تجھے سب کی مُرادیں معلوم ہیں ۔ اور تجھ سے کوئی بھید چھُپا نہیں ۔ اپنے روح القدس کے الہام سے ہملارے دل کے خیالوں کو پاک کر، تاکہ ہم تجھ سے کامل محبت رکھیں ، اور لائقی طور پر تیرے پاک نام کی تعظیم کریں ۔ ہمارے خداوند یسوع مسیح کے وسیلے سے ۔\nجماعت : آمین\n\nپریسبٹر : اے قدوس خدا !\nجماعت : اے قدوس اور قادر، اے قدوس اور غیر فانی ،\nہم پر رحم کر۔\nپریسبٹر : اے قدوس خدا !\nجماعت : اے قدوس اور قادر، اے قدوس اور غیر فانی ،\nہم پر رحم کر۔\nپریسبٹر : اے قدوس خدا !\nجماعت : اے قدوس اور قادر، اے قدوس اور غیر فانی ،\nہم پر رحم کر۔\n( دعائے تمجید یا شکرگزاری کا گیت صفحہ نمبر اور ۸ پر ملاحظہ فرمائے ۔ )\n\nخدا کے احکام کا خلاصہ\nاے اسرائیل سُن ! خداوند ہمارا خدا ایک ہی خداوند ہے اور تو خداوند اپنے خدا سے اپنے سارے دل اور اپنی ساری جان اور اپنی ساری عقل اور اپنی ساری طاقت سے محبت رکھ ۔ یہ اول اور پہلا حکم ہے اور دوسرا اس کی مانند یہ ہے کہ تو اپنے پڑوسی سے اپنے برابر محبت رکھو ۔ اِن سے بڑا اور کوئی حکم نہیں ۔ ان دو حکموں پر تمام توریت اور انبیا کے صحیفوں کا مدار ہے ۔\n\nنیا حکم\nخادم الدین : ہمارے خداوند یسوع مسیح نے یہ بھی فرمایا ۔\nمیں تمہیں ایک نیا حکم دیتا ہوں کہ ایک دُوسرے سے محبت رکھو جیسے میں نے تم سے محبت رکھی، تم بھی ایک دوسرے سے محبت رکھو ۔ اگر آپس میں محبت رکھو گے تو اس سے سب جانیں گے کہ تم میرے شاگرد ہو ۔\nجماعت : اے خداوند، ہم تیری منت کرتے ہیں، کہ ہم پر رحم فرما۔ اور اپنے ان سب حکموں کو ہمارے دلوں پر نقش کر۔\n\nگناہوں کا اقرار\nخادم الدین : اے عزیزو! ہم اس لئے اکٹھے ہیں کہ خدا کے پاک ترین کلام کو سُنیں اور خداوند کے بدن اور خون میں شریک ہوں ۔ اس لئے آؤ ہم گھٹنوں کے بل ہو کر خاموشی میں اپنے آپ کو آزمائیں اور خدا کا فضل مانگیں تاکہ توبہ اور ایمان سے اُس کے نزدیک آسکیں ۔\n\nسب گھٹنوں کے بل رہیں\nاور کچھ وقت کے لئے خاموشی میں دعا کریں ۔\nسب مل کر : اے آسمانی باپ، ہم اقرار کرتے ہیں کہ ہم نے تیرے خلاف اور اپنے پڑوسی کے خلاف گناہ کیا ہے ۔ نُور کی بجائے ہم تاریکی میں چلے ۔ ہم نے مسیح کا نام لیا ہے، لیکن نراستی سے باز نہیں لے ۔ ہم تیری منت کرتے ہیں، ہم پر رحم کر ۔ یسوع مسیح کی خاطر ہمارے سب گناہ معاف کر۔ اپنے روح القدس کے ذریعے ہمیں پاک صاف کر، ہمارے ضمیروں کو بیدار کر اور ہمیں دُوسروں کے معاف کرنے کی توفیق دے ۔ تاکہ ہم آئندہ نئی زندگی میں تیری خدمت کریں اور تیرے پاک نام کا جلال ظاہر ہو ۔\nآمین ۔\n\nتسلی کے کلمات\n( اگر بشپ حاضر ہو تو معافی کی تسلی اور اعلان سُنائے ۔ )\nپریسبٹر : ( کھڑا ہو کر )\nہمارے متجی اور خداوند یسوع مسیح کی دعوت سنو :\n\"اے محنت اُٹھانے والو اور بوجھ سے دبے ہوئے لوگو، سب میرے پاس آؤ، میں تمہیں آرام دوں گا ۔\"\nخدا نے دنیا سے ایسی محبت رکھی کہ اُس نے اپنا اکلوتا بیٹا بخش دیا تاکہ جو کوئی اُس پر ایمان لائے ہلاک نہ ہو بلکہ ہمیشہ کی زندگی پائے ۔\nپولوس رسول فرماتے ہیں :\nیہ بات سچ اور ہر طرح سے قبول کرنے کے لائق ہے کہ مسیح یسوع گنہگاروں کو نجات دینے کے لئے دنیا میں آیا ۔\nیوحنا رسول فرماتے ہیں :\n\"اگر کوئی گناہ کرے تو باپ کے پاس ہمارا ایک مددگار موجود ہے، یعنی یسوع مسیح راستباز اور وہی ہمارے گناہوں کا کفارہ ہے ۔\"\n\nمعافی کا اعلان\n( تھوڑی خاموشی کے بعد پریسبٹر یوں کہے ۔ )\nپریسبٹر : خدا کے اُس حکم کے مطابق جو مجھے اُس کلیسیا کے ذریعے سے ملا، میں باپ، بیٹے اور روح القدس کے نام میں تمہیں خبر دیتا ہوں اور اعلان سُناتا ہوں کہ تمہارے سب گناہ معاف ہو چکے ہیں ۔\nجماعت : آمین ۔ خدا کا شکر ہو ۔\nیا\nپریسبٹر : قادرِ مطلق خدا ہمارا آسمانی باپ جس نے اپنی بڑی رحمت کے سبب اُن سب سے جو اپنے بھائیوں کو معاف کر کے دلی توبہ اور سچے ایمان سے اُس کی طرف رجوع کرتے ہیں، گناہوں کی معافی کا وعدہ کیا ہے، وہ تم پر رحم کرے، تمہارے سلے رگناہوں کو بخشے اور اُن سے تم کو رہائی دے، ہر طرح کی نیکی میں تم کو مستحکم و مضبوط کرے اور تمہیں ابدی زندگی تک پہنچائے ۔ ہمارے خداوند یسوع مسیح کے وسیلہ سے ۔\nجماعت : آمین ۔ خدا کا شکر ہو ۔\n\n(شکر گزاری کا گیت)\n(کلامِ خدا)\n(واعظ)\n(رسولوں کا عقیدہ)\n(سفارشی دعا)\n(کولیکٹ)\n(نذرانہ)\n\nیوخارستی دعا\n( اس پر پریسبٹر کھڑا ہو جائے )\nپریسبٹر : خداوند تمہارے ساتھ ہو ۔\nجماعت : تیری روح کے ساتھ بھی ہے ۔\nپریسبٹر : اپنے دل عالم بالا پر لگاؤ ۔\nجماعت : ہم اُن کو خداوند کی طرف لگاتے ہیں ۔\nپریسبٹر : ہم اپنے خداوند خدا کا شکر کریں ۔\nجماعت : ایسا کرنا واجب اور مناسب ہے ۔\nپریسبٹر : یہ نہایت واجب و مناسب اور ہم پر فرض بھی ہے کہ ہر وقت اور ہر جگہ تیری شکرگزاری کریں ۔ اے خداوند مقدس باپ قادر مطلق اور ازلی خدا، تیرے بیٹے ہمارے خداوند یسوع مسیح کے وسیلے سے ۔۔۔۔۔۔\n( اس موقعہ پر کوئی خاص تہنید موسم یا موقع کے مطابق ہو تو پڑھی جائے صفحہ ۵۲ تا ۵ پر ملاحظہ فرمائے ۔ )\nاس واسطے فرشتوں اور مقرب فرشتوں اور کل آسمانی گروہ کے ساتھ مل کر ہم تیرے جلیل نام کی حمد و تعظیم کرتے ہیں اور ہمیشہ یوں تیری ستائش کرتے ہیں ۔\n\nسب مل کر : قدوس، قدوس، قدوس، خداوند رب الافواج ! آسمان و زمین تیرے جلال سے معمور رہیں ۔ اے خداوند تعالیٰ تیرا ہی جلال ہو ۔ مبارک ہے وہ جو خداوند کے نام سے آیا ہے اور آنے والا بھی ہے ۔ عالم بالا پر ہوشعنا ۔\nپریسبٹر : واقعی قدوس، واقعی مبارک ہے توُ اے آسمانی باپ ۔ تُو جس نے اپنی اُس بڑی شفقت سے جو انسان کی طرف ہے ، اپنے اکلوتے بیٹے یسوع مسیح کو بخشا کہ وہ ہمارا فدیہ دینے کے لئے صلیب پر موت گوارا کرے ۔ اُس نے اُس پر اپنے آپ کو ایک ہی بار نذر کر کے کُل جہان کے گناہوں کے لئے ایک پُوری، کامل، اور کافی قربانی نذر اور معاوضہ دیا ہم اُس کے دکھ اور موت تیرے سامنے یاد کرتے ہیں ۔ تو اُس کی قربانی یاد کر کے ہم پر اور۔۔۔۔\nپر اور اپنی پوری کلیسیا پر رحم کر اُس کے وسیلے سے جس نے ہم سے فرمایا کہ جب تک پھر نہ آؤں ۔ تم ایسے ہی کرتے رہنا ۔\nجس رات وہ پکڑوایا گیا ، اُس نے روٹی لی ۔\n\nیہاں پریسبٹر روٹی کی طشتری اپنے ہاتھوں میں لے ۔\n\nاور شکر کر کے توڑی اور کہا تم سب اس میں سے پیو کیونکہ نئے عہد کا یہ میرا خون ہے جو تمہارے اور بہتوں کے گناہوں کی معافی کے واسطے بہایا جاتا ہے ۔ جب کبھی پیو میری یادگاری کے لئے ایساہی کیا کرو ۔\nاسی طرح اُس نے کھانے کے بعد پیالہ بھی لیا ۔\n\nیہاں پریسبٹر پیالہ کو ہاتھ میں لے اور اُوپر کی طرف اُٹھائے\n\nاور شکر کر کے اُن کو دیا اور کہا تم سب اس میں سے پیو کیونکہ نئے عہد کا یہ میرا خون ہے جو تمہارے اور بہتوں کے گناہوں کی معافی کے واسطے بہایا جاتا ہے ۔ جب کبھی پیو میری یادگاری کے لئے ایساہی کیا کرو ۔\nجماعت : آمین ۔ اے خداوند ! ہم تیری موت کو یاد کرتے ہیں ۔ ہم تیرے جی اُٹھنے کا اقرار کرتے ہیں ۔ ہم تیری دوسری آمد کا انتظار کرتے ہیں ۔ اے مسیح تیرا ہی جلال ہو !\n\nدعائے ربانی\n( سب گھٹنوں کے بل رہیں )\nپریسبٹر : جس طرح ہمارے مُنجی مسیح نے ہمیں حکم دیا اور سکھایا ۔ ہم دلیری سے کہتے ہیں ۔\nپریسبٹر اور جماعت : اے ہمارے باپ تُو جو آسمان پر ہے ۔ تیرا نام پاک مانا جائے تیری بادشاہی آئے تیری مرضی جیسی آسمان پر پوری ہوتی ہے ۔ زمین پر بھی ہو ۔ ہماری روز کی روٹی آج ہمیں دے ۔ اور ہمارے قصوروں کو معاف کر کہ ہم بھی اپنے قصورواروں کو معاف کرتے ہیں ۔ اور ہمیں آزمائش میں نہ پڑنے دے بلکہ برائی سے بچا کیونکہ بادشاہی اور قدرت اور جلال ہمیشہ تک تیرا ہی ہے ۔ آمین ( صفحہ نمبر ۳۱ کو دیکھیں )\n\nخاموشی میں خاص مناجات\nتھوڑی دیر سب خاموشی میں گھٹنے ٹیکے رہیں\n\nخداوند کی میز کے پاس آنے کی دعا\nپریسبٹر اور جماعت : اے رحیم خداوند ! ہم اپنی راستبازی پر نہیں بلکہ تیری گوناگوں اور بڑی رحمتوں پر بھروسہ کر کے تیری اس میز کے پاس آنے کی جرأت کرتے ہیں ۔ ہم تو اس لائق نہیں کہ توُ ہماری میز کے نیچے گرتے ہیں، پڑیں ۔ لیکن تو وہ خداوند ہے جس کا خاصہ ہمیشہ رحم فرماناہے ۔ اس لئے اے کریم خداوند بخش کہ ہم تیرے بیٹے یسوع مسیح کا گوشت اس طور سے کھائیں اور اُس کا خون اس وضع سے پییں کہ ہمارے گناہ آلود جسم اور روحیں اُس کے نہایت بیش قیمت بدن اور خون سے پاک صاف کئے جائیں ، اور ہم اُس میں ہمیشہ ایسے ۔ آمین\n\nروٹی توڑنا\nپھر پریسبٹر اُٹھ کر یہ کہتے ہوئے روٹی توڑے\nپریسبٹر : وہ روٹی جسے ہم توڑتے ہیں ، فی الحقیقت مسیح کے بدن کی شراکت ہے ۔\nپریسبٹر : اے خدا کے برے تُو جو دنیا کا گناہ اُٹھالے جاتا ہے ۔\nجماعت : ہم پر رحم کر ۔\nپریسبٹر : اے خدا کے برے تُو جو دنیا کا گناہ اُٹھالے جاتا ہے ۔\nجماعت : ہم پر رحم کر ۔\nپریسبٹر : اے خدا کے برے تُو جو دنیا کا گناہ اُٹھالے جاتا ہے ۔\nجماعت : اپنا اطمینان ہمیں بخش ۔\n\nتقسیم\nپھر پریسبٹر اور جماعت روٹی اور مَے میں شریک ہوں ۔ سب سے پہلے پریسبٹر خود لے ۔ ( اور مددگار خادمان کو شریک کرے ) پھر وہ اور مددگار خادمان دین جماعت میں تقسیم کریں اور تقسیم کرتے وقت مندرجہ ذیل یا الفاظ استعمال کئے جا سکتے ہیں ۔\nپریسبٹر : خداوند یسوع مسیح کا بدن جو زندگی کی روٹی ہے ۔\nخداوند یسوع مسیح کا خون جو انگور کا حقیقی درخت ہے ۔\n( اگر مخصوص شدہ روٹی اور مَے ناکافی ہو تو مقرر ہونے کے الفاظ اور دعا دُہرائی جائے ۔ )\n\nدعائے شکرگزاری\nجب سب شریک ہو چکیں تو خادم الدین یوں کہے ۔\nخادم الدین : اب چونکہ ہم ایمان سے مسیح کے بدن اور خون کے پاک ساکرامنٹ میں شریک ہو چکے ہیں تو آؤ ہم مل کر شکرگزاری کریں ۔\nخادم الدین : ( یا سب مل کر ) قادر مطلق خدا ہمارے آسمانی باپ تُو جس نے اپنے عزیز بیٹے یسوع مسیح ہمارے خداوند میں بطور اپنے فرزند قبول کر لیا ہے اور ہمیں اُس کے نہایت بیش قیمت بدن اور خون کی روحانی خوراک سے سیر کیا ہے ۔ اور تُونے ہمیں گناہوں کی معافی اور ہمیشہ کی زندگی کا وعدہ دیا ہے ۔ ہم ان بخششوں کے لئے جو بیان سے باہر ہیں ، تیرا شکر اور تیری تعریف کرتے ہیں اور اپنے آپ کو اپنی روح اور اپنے جسم سمیت تیرے حضور نذر گزراتے ہیں تاکہ پاک اور زندہ قربانی ہو جو ہماری معقول عبادت ہے ۔ ہمیں فضل بخش تا کہ ہم اس جہان کے ہم شکل نہ بنیں بلکہ عقل نئی ہو جانے سے اپنی صورت بدلتے جائیں اور یوں تیری نیک اور کامل مرضی سیکھیں اور اس جہان میں اسی طرح تیری فرمانبرداری کریں کہ ہم آخر میں تیری آسمانی بادشاہی میں تیرے سب مقدسوں سمیت خوشی منائیں ۔ ہمارے خداوند یسوع مسیح کے وسیلہ سے جو تیرے اور روح القدس کے ساتھ واحد خدا ابدالآباد جیتا اور سلطنت کرتا ہے ۔\nجماعت : آمین ۔ حمد اور تمجید اور حکمت اور شکر اور عزت اور قدرت اور طاقت ابدالآباد ہمارے خدا کی ہو ۔ آمین\nیا\nخادم الدین ( یا سب مل کر ) : اے قادر مطلق اور ابدی\n\nکلمات برکت\nپریسبٹر : خدا کا اطمینان جو سمجھ سے بالکل باہر ہے ۔ تمہارے دلوں اور خیالوں کو خدا اور اُس کے بیٹے ہمارے خداوند یسوع مسیح کی پہچان اور محبت میں محفوظ رکھے اور قادر مطلق خدا باپ، بیٹے اور روح القدس کی برکت تم پر ہو ۔ اور ہم تمہارے ساتھ ہمیشہ رہے ۔ آمین\nیا\nخدائے کریم کی رحمت اور حفاظت میں ہم تمہیں سونپتے ہیں ۔ خداوند تمہیں برکت دے اور تمہیں محفوظ رکھے ۔ خداوند اپنا چہرہ تم پر پھلا تو تم پر مہربان ہے ۔ خداوند اپنا چہرہ تمہاری طرف متوجہ کرے اور تمہاری سلامتی بخشے، اب اور ہمیشہ تک ۔ آمین\nپریسبٹر : اطمینان سے جاؤ اور خداوند کی خدمت کرو ۔\nجماعت : ہم مسیح کے نام سے جاتے ہیں ۔ آمین\n( کلمات برکت کے بعد شکرگزاری کا گیت یا زبور گایا جائے )",
+    "language": ["ur"],
+    "tags": ["communion", "lords supper", "sacrament"]
+  },
+  {
+    "id": "communion-roman",
+    "type": "prayer",
+    "number": 454,
+    "page": 454,
+    "title_ur": "عشائے ربانی",
+    "title_en": "Holy Communion (Roman Urdu)",
+    "source": "Traditional",
+    "category": "Prayers",
+    "lyrics_ur": "Isha-e-Rabbani ki dua — jald shamil ki jayegi.",
+    "language": ["ur"],
+    "tags": ["communion", "lords supper", "sacrament"]
+  },
+  {
+    "id": "communion-en",
+    "type": "prayer",
+    "number": 455,
+    "page": 455,
+    "title_ur": "عشائے ربانی",
+    "title_en": "Holy Communion (English)",
+    "source": "Traditional",
+    "category": "Prayers",
+    "lyrics_ur": "Holy Communion prayer — coming soon.",
+    "language": ["en"],
+    "tags": ["communion", "lords supper", "sacrament"]
   }
 ]
