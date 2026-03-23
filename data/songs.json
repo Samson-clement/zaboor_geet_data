@@ -21,18 +21,9 @@
       "judgment"
     ],
     "videos": [
-      {
-        "video_id": "yb9MH9autdo",
-        "title": "Zaboor 1 - Oh Dhan Hai (Asif Bhatti)"
-      },
-      {
-        "video_id": "j_LTK7h2ySY",
-        "title": "Zaboor 1-150 - Urdu Bible Reading"
-      },
-      {
-        "video_id": "_9LpVf0Pl3w",
-        "title": "Zaboor 1 - O Dhan Hai (Nigel Bobby)"
-      }
+      "yb9MH9autdo",
+      "j_LTK7h2ySY",
+      "_9LpVf0Pl3w"
     ]
   },
   {
@@ -53,10 +44,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "6-AXFBvc8pM",
-        "title": "Zaboor 2 Part 1 (Asif Bhatti)"
-      }
+      "6-AXFBvc8pM"
     ]
   },
   {
@@ -78,10 +66,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "pFT6wgZwaOA",
-        "title": "Zaboor 3 (Asif Bhatti)"
-      }
+      "pFT6wgZwaOA"
     ]
   },
   {
@@ -106,30 +91,12 @@
       "protection"
     ],
     "videos": [
-      {
-        "video_id": "tCIxgOkrx8E",
-        "title": "Zaboor 4 - Jadon Tenu Pukaran Main"
-      },
-      {
-        "video_id": "eCD1tRJUf4M",
-        "title": "Zaboor 4 - Jadoun Tenu Pukaraan Main (Geet Aur Zaboor)"
-      },
-      {
-        "video_id": "rb41C6Quf3w",
-        "title": "Zaboor 4 - Jadon Tenu Pukaran Main (Punjabi)"
-      },
-      {
-        "video_id": "7OEnUivaeqQ",
-        "title": "Zaboor 4 - Jadon Tenu Pukaran Mein (Asif Bhatti)"
-      },
-      {
-        "video_id": "4YHHE5ntbW8",
-        "title": "Zaboor 4 - Jadon Tenu Pukaran Main"
-      },
-      {
-        "video_id": "5LrGaTEmxv4",
-        "title": "Zaboor 4 - Jadon Tenu Pukaran Main (Geet Aur Zaboor)"
-      }
+      "tCIxgOkrx8E",
+      "eCD1tRJUf4M",
+      "rb41C6Quf3w",
+      "7OEnUivaeqQ",
+      "4YHHE5ntbW8",
+      "5LrGaTEmxv4"
     ]
   },
   {
@@ -151,14 +118,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "ztDxKp6zM_M",
-        "title": "Zaboor 5 Part 1 - Yehowa Meriyan Bataan (Asif Bhatti)"
-      },
-      {
-        "video_id": "46uN-LqdAG4",
-        "title": "Zaboor 5 - Urdu Bible Reading"
-      }
+      "ztDxKp6zM_M",
+      "46uN-LqdAG4"
     ]
   },
   {
@@ -180,10 +141,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "mvLjSH2exkE",
-        "title": "Zaboor 6 - Ae Yahowa Apna Gussa Na Wakha (Asif Bhatti)"
-      }
+      "mvLjSH2exkE"
     ]
   },
   {
@@ -205,14 +163,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "oFtig4faGDE",
-        "title": "Zaboor 7 Part 1 - Tuen Yahowa Mera Khuda (Asif Bhatti)"
-      },
-      {
-        "video_id": "6DUpPf20NSk",
-        "title": "Zaboor 7 Part 2 (Asif Bhatti)"
-      }
+      "oFtig4faGDE",
+      "6DUpPf20NSk"
     ]
   },
   {
@@ -233,14 +185,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "yZNVk4ZrrJQ",
-        "title": "Zaboor 8 - Yehowa Mere Khudawand"
-      },
-      {
-        "video_id": "v5193-il1BY",
-        "title": "Zaboor 8 (Asif Bhatti)"
-      }
+      "yZNVk4ZrrJQ",
+      "v5193-il1BY"
     ]
   },
   {
@@ -265,30 +211,12 @@
       "praise"
     ],
     "videos": [
-      {
-        "video_id": "M8EYQ2AhQ3g",
-        "title": "Zaboor 9 - Dayam Yehowa Ya Rabb"
-      },
-      {
-        "video_id": "JOY8MdFjpsA",
-        "title": "Zaboor 9 Part 1 (Asif Bhatti)"
-      },
-      {
-        "video_id": "WItK7wGcgOg",
-        "title": "Zaboor 9 Part 3 - Yahowa Ghr Rehmat (Asif Bhatti)"
-      },
-      {
-        "video_id": "cF2bwP7EMsU",
-        "title": "Zaboor 9 Part 2 - Daim Yehowa Ya Rabb (Asif Bhatti)"
-      },
-      {
-        "video_id": "Wa5MqcOLkd8",
-        "title": "Zaboor 9 - Dayam Yahova Ya Rab (Ghulam Abbas)"
-      },
-      {
-        "video_id": "ffHE4JgsBuQ",
-        "title": "Zaboor 9 - Daim Yahowa (Tehmina Tariq)"
-      }
+      "M8EYQ2AhQ3g",
+      "JOY8MdFjpsA",
+      "WItK7wGcgOg",
+      "cF2bwP7EMsU",
+      "Wa5MqcOLkd8",
+      "ffHE4JgsBuQ"
     ]
   },
   {
@@ -310,18 +238,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "Nz4khcIEuoo",
-        "title": "Zaboor 10 Part 1 - Yahowa Apne (Asif Bhatti)"
-      },
-      {
-        "video_id": "z8A1YNw3y0Y",
-        "title": "Zaboor 10 Part 2 (Asif Bhatti)"
-      },
-      {
-        "video_id": "P_2Z-GcfJUw",
-        "title": "Zaboor 10 Part 3 - Aey Yehowa Qudrat Walay (Asif Bhatti)"
-      }
+      "Nz4khcIEuoo",
+      "z8A1YNw3y0Y",
+      "P_2Z-GcfJUw"
     ]
   },
   {
@@ -342,10 +261,7 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "Sy2mi1h33Xw",
-        "title": "Zaboor 11 - Aas Meri Hai Yehowa Ute (Asif Bhatti)"
-      }
+      "Sy2mi1h33Xw"
     ]
   },
   {
@@ -366,14 +282,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "_Icfb3lS5iM",
-        "title": "Zaboor 12 Part 1 - Madad Kr Tu Yehowa (Asif Bhatti)"
-      },
-      {
-        "video_id": "fhx5VZER17g",
-        "title": "Zaboor 12 Part 2 - Paak Yehowa (Asif Bhatti)"
-      }
+      "_Icfb3lS5iM",
+      "fhx5VZER17g"
     ]
   },
   {
@@ -395,10 +305,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "ZL-oWdhkrDY",
-        "title": "Zaboor 13 - Kad Teekar Yehowa (Asif Bhatti)"
-      }
+      "ZL-oWdhkrDY"
     ]
   },
   {
@@ -419,10 +326,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "OGFcPcZX19U",
-        "title": "Zaboor 14 - Ehmak Kehnda Ay (Asif Bhatti)"
-      }
+      "OGFcPcZX19U"
     ]
   },
   {
@@ -447,14 +351,8 @@
       "holy"
     ],
     "videos": [
-      {
-        "video_id": "hKTSSN1R41s",
-        "title": "Zaboor 15/16 - Aye Yehowah Tere Ghar / Aye Khudawand Mere"
-      },
-      {
-        "video_id": "7iAfO8f9Z3k",
-        "title": "Zaboor 15 (Asif Bhatti)"
-      }
+      "hKTSSN1R41s",
+      "7iAfO8f9Z3k"
     ]
   },
   {
@@ -479,18 +377,9 @@
       "refuge"
     ],
     "videos": [
-      {
-        "video_id": "hh0B9wo469g",
-        "title": "Zaboor 16 - Mubarak Jehovah Mein Aankhen Ga"
-      },
-      {
-        "video_id": "oGv-08O1TiA",
-        "title": "Zaboor 16 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "sMyf2LA_Y6s",
-        "title": "Zaboor 16 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "hh0B9wo469g",
+      "oGv-08O1TiA",
+      "sMyf2LA_Y6s"
     ]
   },
   {
@@ -512,22 +401,10 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "Nm767Y8zhx8",
-        "title": "Zaboor 17 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "WaEERVNogxI",
-        "title": "Zaboor 17 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eMMQi3pL54M",
-        "title": "Zaboor 17 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "qyEYDjEmg0g",
-        "title": "Zaboor 17 (Part 2) - Tainu Sadna Khudaya"
-      }
+      "Nm767Y8zhx8",
+      "WaEERVNogxI",
+      "eMMQi3pL54M",
+      "qyEYDjEmg0g"
     ]
   },
   {
@@ -552,46 +429,16 @@
       "salvation"
     ],
     "videos": [
-      {
-        "video_id": "gtdWdctQQtw",
-        "title": "Zaboor 18 - Apay Uparon Hath Watha Ke"
-      },
-      {
-        "video_id": "pWTdROGpWGk",
-        "title": "Zaboor 18 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "qPrKus8z8Rk",
-        "title": "Zaboor 18 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "B83R35_1mv0",
-        "title": "Zaboor 18 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "siu_HUuh8JU",
-        "title": "Zaboor 18 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nZS_xHhnjT0",
-        "title": "Zaboor 18 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Ft8Mt7tKcVo",
-        "title": "Zaboor 18 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "fwzqGCZOraY",
-        "title": "Zaboor 18 Part 8 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "a2KUcK0wy7Y",
-        "title": "Zaboor 18 All Parts (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "D8984R0UrUE",
-        "title": "Zaboor 18 - Appy Upro Hath Wadha K (Anum Ashraf)"
-      }
+      "gtdWdctQQtw",
+      "pWTdROGpWGk",
+      "qPrKus8z8Rk",
+      "B83R35_1mv0",
+      "siu_HUuh8JU",
+      "nZS_xHhnjT0",
+      "Ft8Mt7tKcVo",
+      "fwzqGCZOraY",
+      "a2KUcK0wy7Y",
+      "D8984R0UrUE"
     ]
   },
   {
@@ -616,18 +463,9 @@
       "testimony"
     ],
     "videos": [
-      {
-        "video_id": "nhqjBXAdLQE",
-        "title": "Zaboor 19 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "vdb2_QqxPL4",
-        "title": "Zaboor 19 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ApGy-qmOQoY",
-        "title": "Zaboor 19 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "nhqjBXAdLQE",
+      "vdb2_QqxPL4",
+      "ApGy-qmOQoY"
     ]
   },
   {
@@ -652,30 +490,12 @@
       "victory"
     ],
     "videos": [
-      {
-        "video_id": "x-lH0O-V9tY",
-        "title": "Zaboor 20 - Dukhan De Wele"
-      },
-      {
-        "video_id": "FXHknyAAvMA",
-        "title": "Zaboor 20 - Dukhaan De Weley (Lyrics)"
-      },
-      {
-        "video_id": "IjsiPPF-O_I",
-        "title": "Zaboor 20 - Dukhan De Wele (Geet Aur Zaboor)"
-      },
-      {
-        "video_id": "O7ocLiSE6y8",
-        "title": "Zaboor 20 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "SOZfSyhPxtE",
-        "title": "Zaboor 20 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "E9ZBGwWAHcQ",
-        "title": "Zaboor 20 - Dukhaan De Weley Teri Yahowa Sunay Duwa"
-      }
+      "x-lH0O-V9tY",
+      "FXHknyAAvMA",
+      "IjsiPPF-O_I",
+      "O7ocLiSE6y8",
+      "SOZfSyhPxtE",
+      "E9ZBGwWAHcQ"
     ]
   },
   {
@@ -696,14 +516,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "XGngjpT0lzg",
-        "title": "Zaboor 21 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LBZR2eTL9Lw",
-        "title": "Zaboor 21 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "XGngjpT0lzg",
+      "LBZR2eTL9Lw"
     ]
   },
   {
@@ -728,42 +542,15 @@
       "testimony"
     ],
     "videos": [
-      {
-        "video_id": "BwiYwya4nPo",
-        "title": "Zaboor 22 - Ay Khudawand Ay Rab Mere"
-      },
-      {
-        "video_id": "A5biPDPqiAE",
-        "title": "Zaboor 22 - Khudaya Apney Bhaiyaan Nu"
-      },
-      {
-        "video_id": "T2sZfggxk8g",
-        "title": "Zaboor 22 - Yaad Yehowa Dee"
-      },
-      {
-        "video_id": "77epdWaxmUE",
-        "title": "Zaboor 22 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "vIyzRChSNSw",
-        "title": "Zaboor 22 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LjxZEeZ_1h8",
-        "title": "Zaboor 22 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "8JiSq8wjmCo",
-        "title": "Zaboor 22 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zEQHrYbCXFk",
-        "title": "Zaboor 22 - Yaad Yahowa Dee (AJ Brother)"
-      },
-      {
-        "video_id": "GJUkKUu3Gic",
-        "title": "Zaboor 22 (Part 4) - Yaad Yahowa Dee Sab Karan Gay"
-      }
+      "BwiYwya4nPo",
+      "A5biPDPqiAE",
+      "T2sZfggxk8g",
+      "77epdWaxmUE",
+      "vIyzRChSNSw",
+      "LjxZEeZ_1h8",
+      "8JiSq8wjmCo",
+      "zEQHrYbCXFk",
+      "GJUkKUu3Gic"
     ]
   },
   {
@@ -788,62 +575,20 @@
       "protection"
     ],
     "videos": [
-      {
-        "video_id": "-rCqmjF9-B8",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol"
-      },
-      {
-        "video_id": "WPdrR97cmu8",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol (Punjabi)"
-      },
-      {
-        "video_id": "fRZa3QuQv9I",
-        "title": "Zaboor 23 - Rab Ayali (Tehmina Tariq)"
-      },
-      {
-        "video_id": "iBeNifUwKj8",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol (Mehnaz)"
-      },
-      {
-        "video_id": "T8DQTjLaWr4",
-        "title": "Zaboor 23 - Khudawand Mera Chopan Hai"
-      },
-      {
-        "video_id": "WMAES6qfQ9g",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol"
-      },
-      {
-        "video_id": "BIVJKaDO4l8",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol (Arif Bhatti & Tehmina Tariq)"
-      },
-      {
-        "video_id": "fp0VgEMoS7k",
-        "title": "Zaboor 23 - Khudawand Mera Chopan Hai"
-      },
-      {
-        "video_id": "GX67b05eI4M",
-        "title": "Zaboor 23 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "RPV9a42LQZI",
-        "title": "Zaboor 23 Part 1 Version 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "y-7QtE3A30Q",
-        "title": "Zaboor 23 Semi-Classical (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "VV2P7lWnqzg",
-        "title": "Zaboor 23 - Rab Ayali Mere Kol (Daud Mehboob Gill)"
-      },
-      {
-        "video_id": "4-fTvgXIJ84",
-        "title": "Zaboor 23, 35, 91, 100 - Urdu Bible Prayer"
-      },
-      {
-        "video_id": "aLCgjwcZwos",
-        "title": "Zaboor 23 - Shahzad Raaz"
-      }
+      "-rCqmjF9-B8",
+      "WPdrR97cmu8",
+      "fRZa3QuQv9I",
+      "iBeNifUwKj8",
+      "T8DQTjLaWr4",
+      "WMAES6qfQ9g",
+      "BIVJKaDO4l8",
+      "fp0VgEMoS7k",
+      "GX67b05eI4M",
+      "RPV9a42LQZI",
+      "y-7QtE3A30Q",
+      "VV2P7lWnqzg",
+      "4-fTvgXIJ84",
+      "aLCgjwcZwos"
     ]
   },
   {
@@ -868,22 +613,10 @@
       "lord of hosts"
     ],
     "videos": [
-      {
-        "video_id": "9th0fgSO0CI",
-        "title": "Zaboor 24 - Rabb Khudawand Badshah"
-      },
-      {
-        "video_id": "FKpcgdTJtBQ",
-        "title": "Zaboor 24 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "U0CSCx9h2KA",
-        "title": "Zaboor 24 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "j7C0Zj24kn0",
-        "title": "Zaboor 24 - Rab Khudawand Badshah Hai (Leo Twins)"
-      }
+      "9th0fgSO0CI",
+      "FKpcgdTJtBQ",
+      "U0CSCx9h2KA",
+      "j7C0Zj24kn0"
     ]
   },
   {
@@ -905,18 +638,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "XZNxgeo0KX0",
-        "title": "Zaboor 25 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bhJm4K2Y32E",
-        "title": "Zaboor 25 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "C4_SP7aJ8UA",
-        "title": "Zaboor 25 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "XZNxgeo0KX0",
+      "bhJm4K2Y32E",
+      "C4_SP7aJ8UA"
     ]
   },
   {
@@ -937,10 +661,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "y6b_XfQiYnk",
-        "title": "Zaboor 26 (Asif Bhatti & Ruth Asif)"
-      }
+      "y6b_XfQiYnk"
     ]
   },
   {
@@ -961,18 +682,9 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "uER_OM4JD1k",
-        "title": "Zaboor 27 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LNZaUv0bLYg",
-        "title": "Zaboor 27 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "kYSUyQg-KOI",
-        "title": "Zaboor 27 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "uER_OM4JD1k",
+      "LNZaUv0bLYg",
+      "kYSUyQg-KOI"
     ]
   },
   {
@@ -994,14 +706,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "IDJRrb2fig0",
-        "title": "Zaboor 28 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "8txbM6tvflU",
-        "title": "Zaboor 28 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "IDJRrb2fig0",
+      "8txbM6tvflU"
     ]
   },
   {
@@ -1022,10 +728,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "NVzI2R_3f00",
-        "title": "Zaboor 29 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "NVzI2R_3f00"
     ]
   },
   {
@@ -1046,14 +749,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "vIcZ9BKRlB0",
-        "title": "Zaboor 30 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "K8r6mdlINRQ",
-        "title": "Zaboor 30 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "vIcZ9BKRlB0",
+      "K8r6mdlINRQ"
     ]
   },
   {
@@ -1078,26 +775,11 @@
       "deliverance"
     ],
     "videos": [
-      {
-        "video_id": "Bz8nR2p7m7M",
-        "title": "Zaboor 31 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "AVwx1WJkzzs",
-        "title": "Zaboor 31 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "J4306qiZPBg",
-        "title": "Zaboor 31 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "D6TL2l1LeHo",
-        "title": "Zaboor 31 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "WPiVx1YGo2o",
-        "title": "Zaboor 31 - Meri Aas Hai Teray Uttay"
-      }
+      "Bz8nR2p7m7M",
+      "AVwx1WJkzzs",
+      "J4306qiZPBg",
+      "D6TL2l1LeHo",
+      "WPiVx1YGo2o"
     ]
   },
   {
@@ -1122,26 +804,11 @@
       "deliverance"
     ],
     "videos": [
-      {
-        "video_id": "aAHlRJpiZHM",
-        "title": "Zaboor 32 - Oh Dhan Jis De"
-      },
-      {
-        "video_id": "a1ogtBToOrU",
-        "title": "Zaboor 32 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CBehRSwSQEI",
-        "title": "Zaboor 32 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "WXlnQkHI0Pw",
-        "title": "Zaboor 32 - Sikhwan Ga Tenu (Morning Zaboor)"
-      },
-      {
-        "video_id": "LqjwgBfWlH8",
-        "title": "Zaboor 32 (Part I) - Oh Dhan Jis Dae"
-      }
+      "aAHlRJpiZHM",
+      "a1ogtBToOrU",
+      "CBehRSwSQEI",
+      "WXlnQkHI0Pw",
+      "LqjwgBfWlH8"
     ]
   },
   {
@@ -1166,30 +833,12 @@
       "joy"
     ],
     "videos": [
-      {
-        "video_id": "dKsEtJmn2Uo",
-        "title": "Zaboor 32 - Sikhawan Ga Tenu"
-      },
-      {
-        "video_id": "a1ogtBToOrU",
-        "title": "Zaboor 32 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CBehRSwSQEI",
-        "title": "Zaboor 32 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "WXlnQkHI0Pw",
-        "title": "Zaboor 32 - Sikhwan Ga Tenu (Morning Zaboor)"
-      },
-      {
-        "video_id": "LqjwgBfWlH8",
-        "title": "Zaboor 32 (Part I) - Oh Dhan Jis Dae"
-      },
-      {
-        "video_id": "Gk8eSPn4JjE",
-        "title": "Zaboor 32 (Part 2) - Sikhawan Ga Tenu Wikhawanga Rah"
-      }
+      "dKsEtJmn2Uo",
+      "a1ogtBToOrU",
+      "CBehRSwSQEI",
+      "WXlnQkHI0Pw",
+      "LqjwgBfWlH8",
+      "Gk8eSPn4JjE"
     ]
   },
   {
@@ -1210,22 +859,10 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "5lh2_77Fo8Y",
-        "title": "Zaboor 33 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "h11jy74pdvs",
-        "title": "Zaboor 33 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ogxNbiqtBhM",
-        "title": "Zaboor 33 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "0GkjGsEtEo8",
-        "title": "Zaboor 33 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "5lh2_77Fo8Y",
+      "h11jy74pdvs",
+      "ogxNbiqtBhM",
+      "0GkjGsEtEo8"
     ]
   },
   {
@@ -1246,26 +883,11 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "K7dMvssX3_Q",
-        "title": "Zaboor 34/81/78 - Masihi Zaboor"
-      },
-      {
-        "video_id": "0D1-eVEZhk4",
-        "title": "Zaboor 34 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "0oeHc4bah3o",
-        "title": "Zaboor 34 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "U8hO6q06R_0",
-        "title": "Zaboor 34 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-zEAXH6jcS8",
-        "title": "Zaboor 34 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "K7dMvssX3_Q",
+      "0D1-eVEZhk4",
+      "0oeHc4bah3o",
+      "U8hO6q06R_0",
+      "-zEAXH6jcS8"
     ]
   },
   {
@@ -1287,30 +909,12 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "Dta-RuGE8XQ",
-        "title": "Zaboor 35 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "pvKkiYVvB3c",
-        "title": "Zaboor 35 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FRIxQCl9Alo",
-        "title": "Zaboor 35 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "8D96LCdp8Ko",
-        "title": "Zaboor 35 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ZYMhnJ3n1P4",
-        "title": "Zaboor 35 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Ap4imV3Kvy4",
-        "title": "Zaboor 35 Part 6 (Asif Bhatti & Ruth Asif)"
-      }
+      "Dta-RuGE8XQ",
+      "pvKkiYVvB3c",
+      "FRIxQCl9Alo",
+      "8D96LCdp8Ko",
+      "ZYMhnJ3n1P4",
+      "Ap4imV3Kvy4"
     ]
   },
   {
@@ -1331,14 +935,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "am862_edCuA",
-        "title": "Zaboor 36 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zicAEKoFFlM",
-        "title": "Zaboor 36 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "am862_edCuA",
+      "zicAEKoFFlM"
     ]
   },
   {
@@ -1363,38 +961,14 @@
       "provision"
     ],
     "videos": [
-      {
-        "video_id": "SWh0qiuHHtc",
-        "title": "Zaboor 37 - Zameen De Waris Howan Gay"
-      },
-      {
-        "video_id": "X477o6OaH40",
-        "title": "Zaboor 37 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Vj49vJCT7og",
-        "title": "Zaboor 37 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "BgoHsioW7m4",
-        "title": "Zaboor 37 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "MDgA3ixqmLA",
-        "title": "Zaboor 37 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "2mquhh7W-hw",
-        "title": "Zaboor 37 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OGVj6ylNWTE",
-        "title": "Zaboor 37 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "SCeZhZeydN8",
-        "title": "Zaboor 37 Part 7 (Asif Bhatti & Ruth Asif)"
-      }
+      "SWh0qiuHHtc",
+      "X477o6OaH40",
+      "Vj49vJCT7og",
+      "BgoHsioW7m4",
+      "MDgA3ixqmLA",
+      "2mquhh7W-hw",
+      "OGVj6ylNWTE",
+      "SCeZhZeydN8"
     ]
   },
   {
@@ -1419,22 +993,10 @@
       "wounds"
     ],
     "videos": [
-      {
-        "video_id": "OVU5HOZYcyk",
-        "title": "Zaboor 38 - Gusey Nal Naa Jhirkin"
-      },
-      {
-        "video_id": "qRNJXJoPy90",
-        "title": "Zaboor 38 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "vZmvG_T21bc",
-        "title": "Zaboor 38 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "tbehJ-K_PfA",
-        "title": "Zaboor 38 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "OVU5HOZYcyk",
+      "qRNJXJoPy90",
+      "vZmvG_T21bc",
+      "tbehJ-K_PfA"
     ]
   },
   {
@@ -1456,18 +1018,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "tOwYPg1j19M",
-        "title": "Zaboor 39 - Apnay Raha Di Karan Ga Rakhi"
-      },
-      {
-        "video_id": "V23QgnZZLdY",
-        "title": "Zaboor 39 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OzctQ_dJghM",
-        "title": "Zaboor 39 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "tOwYPg1j19M",
+      "V23QgnZZLdY",
+      "OzctQ_dJghM"
     ]
   },
   {
@@ -1492,54 +1045,18 @@
       "trust"
     ],
     "videos": [
-      {
-        "video_id": "nGuYgNh61AE",
-        "title": "Zaboor 40 - Mein Sabar De Naal (Christians In Pakistan)"
-      },
-      {
-        "video_id": "4EAIjqV00MY",
-        "title": "Zaboor 40 - Mein Sabar De Naal Aas Rakh Ke"
-      },
-      {
-        "video_id": "l-15xAHY4iU",
-        "title": "Zaboor 40 - Mein Sabar De Naal (Pastor Tariq Waris)"
-      },
-      {
-        "video_id": "LjQHUijMeQY",
-        "title": "Zaboor 40 - Main Sabar De Naal Aas"
-      },
-      {
-        "video_id": "Z7Ffg9dxY14",
-        "title": "Zaboor 40 - Mein Sabar De Naal Aas Rakh Ke"
-      },
-      {
-        "video_id": "rA1MyQ1K1uI",
-        "title": "Zaboor 40 - Mein Sabar De Naal (Geet Aur Zaboor)"
-      },
-      {
-        "video_id": "yIHCvYM4pVM",
-        "title": "Zaboor 40 - Mein Sabar De Naal (Geet Aur Zaboor Lyrics)"
-      },
-      {
-        "video_id": "k2kfxm1AmnU",
-        "title": "Zaboor 40 - Yahowa Hain Naal Kasrat De"
-      },
-      {
-        "video_id": "TyjwyVZOb8s",
-        "title": "Zaboor 40 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "uvsZaSKURVM",
-        "title": "Zaboor 40 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "me-CnP6CzMw",
-        "title": "Zaboor 40 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ezLwJMmHx1U",
-        "title": "Zaboor 40 - Main Sabar De Naal (Ghulam Abbas)"
-      }
+      "nGuYgNh61AE",
+      "4EAIjqV00MY",
+      "l-15xAHY4iU",
+      "LjQHUijMeQY",
+      "Z7Ffg9dxY14",
+      "rA1MyQ1K1uI",
+      "yIHCvYM4pVM",
+      "k2kfxm1AmnU",
+      "TyjwyVZOb8s",
+      "uvsZaSKURVM",
+      "me-CnP6CzMw",
+      "ezLwJMmHx1U"
     ]
   },
   {
@@ -1561,14 +1078,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "xgkCT9OlUB4",
-        "title": "Zaboor 41 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "uODH8WS_dmE",
-        "title": "Zaboor 41 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "xgkCT9OlUB4",
+      "uODH8WS_dmE"
     ]
   },
   {
@@ -1593,26 +1104,11 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "qYyFdpQUuJg",
-        "title": "Zaboor 42 - Pani De Soteyan De"
-      },
-      {
-        "video_id": "pyQhRXfVTC4",
-        "title": "Zaboor 42 - Pani De Soteyan De (Geet Aur Zaboor)"
-      },
-      {
-        "video_id": "WByDneId9eA",
-        "title": "Zaboor 42 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "XRRcuaR0FZE",
-        "title": "Zaboor 42 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nrPD2h5tTYs",
-        "title": "Zaboor 42 - Pani De Soteyan Di (Ghulam Ali)"
-      }
+      "qYyFdpQUuJg",
+      "pyQhRXfVTC4",
+      "WByDneId9eA",
+      "XRRcuaR0FZE",
+      "nrPD2h5tTYs"
     ]
   },
   {
@@ -1634,10 +1130,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "le9hOAT8uew",
-        "title": "Zaboor 43 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "le9hOAT8uew"
     ]
   },
   {
@@ -1658,14 +1151,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "eKZeaM4aksU",
-        "title": "Zaboor 44 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "pUTdelZC4Ko",
-        "title": "Zaboor 44 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "eKZeaM4aksU",
+      "pUTdelZC4Ko"
     ]
   },
   {
@@ -1690,14 +1177,8 @@
       "truth"
     ],
     "videos": [
-      {
-        "video_id": "Pb2_APwqwko",
-        "title": "Zaboor 45 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zsJEC9GTUAg",
-        "title": "Zaboor 45 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "Pb2_APwqwko",
+      "zsJEC9GTUAg"
     ]
   },
   {
@@ -1722,14 +1203,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "Pb2_APwqwko",
-        "title": "Zaboor 45 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zsJEC9GTUAg",
-        "title": "Zaboor 45 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "Pb2_APwqwko",
+      "zsJEC9GTUAg"
     ]
   },
   {
@@ -1754,30 +1229,12 @@
       "fortress"
     ],
     "videos": [
-      {
-        "video_id": "qa8AnroCC2U",
-        "title": "Zaboor 46 - Rab Asada Zor Hi Te Nalay Sadi Panah"
-      },
-      {
-        "video_id": "mv2xzSyeROg",
-        "title": "Zaboor 46 - Rab Asada Zor Hi (Tehmina Tariq & Arif Bhatti)"
-      },
-      {
-        "video_id": "6oIffRHO92Q",
-        "title": "Zaboor 46 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nltif1ZhC_k",
-        "title": "Zaboor 46 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "IPGEJWWAZ38",
-        "title": "Zaboor 46 - Rab Sada Zor Hai Te (Javed Sagar)"
-      },
-      {
-        "video_id": "9O9WW7sEMuU",
-        "title": "Zaboor 46 - Rab Asada Zoor Hy Ty"
-      }
+      "qa8AnroCC2U",
+      "mv2xzSyeROg",
+      "6oIffRHO92Q",
+      "nltif1ZhC_k",
+      "IPGEJWWAZ38",
+      "9O9WW7sEMuU"
     ]
   },
   {
@@ -1798,10 +1255,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "4blwnvIr_v0",
-        "title": "Zaboor 47 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "4blwnvIr_v0"
     ]
   },
   {
@@ -1826,14 +1280,8 @@
       "sovereignty"
     ],
     "videos": [
-      {
-        "video_id": "Dq-bTybo9wU",
-        "title": "Zaboor 47 - Sub Logo Mahangay Maaro"
-      },
-      {
-        "video_id": "4blwnvIr_v0",
-        "title": "Zaboor 47 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "Dq-bTybo9wU",
+      "4blwnvIr_v0"
     ]
   },
   {
@@ -1858,26 +1306,11 @@
       "guidance"
     ],
     "videos": [
-      {
-        "video_id": "Sb63-qaUWqI",
-        "title": "Zaboor 48 - Tere Haikal De Wich"
-      },
-      {
-        "video_id": "FhXGyZui4BE",
-        "title": "Zaboor 48 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "TwM2rBGdlKI",
-        "title": "Zaboor 48 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "RiNntojn_kI",
-        "title": "Zaboor 48 - Teri Haikal De Wich Keeta"
-      },
-      {
-        "video_id": "I1rvvpG26Hk",
-        "title": "Zaboor 48 (Part II) - Teri Haikal Dae Wich Keeta"
-      }
+      "Sb63-qaUWqI",
+      "FhXGyZui4BE",
+      "TwM2rBGdlKI",
+      "RiNntojn_kI",
+      "I1rvvpG26Hk"
     ]
   },
   {
@@ -1898,14 +1331,8 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "_kkV9Oxulcw",
-        "title": "Zaboor 49 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "L36Dhv0kogs",
-        "title": "Zaboor 49 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "_kkV9Oxulcw",
+      "L36Dhv0kogs"
     ]
   },
   {
@@ -1926,22 +1353,10 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "LeAYZ0V1l6M",
-        "title": "Zaboor 50 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "fd2tl-A8pDQ",
-        "title": "Zaboor 50 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "qIYZrpcILQU",
-        "title": "Zaboor 50 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FphLGDdfSLk",
-        "title": "Zaboor 50 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "LeAYZ0V1l6M",
+      "fd2tl-A8pDQ",
+      "qIYZrpcILQU",
+      "FphLGDdfSLk"
     ]
   },
   {
@@ -1966,18 +1381,9 @@
       "mercy"
     ],
     "videos": [
-      {
-        "video_id": "imBU8xD68PA",
-        "title": "Zaboor 51 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "E2YYqSJIwXo",
-        "title": "Zaboor 51 - Fazal Nal Aye Rab"
-      },
-      {
-        "video_id": "bMbzJzBOjCM",
-        "title": "Zaboor 51 - Fazal Nal Aya Rab (Subhash Gill)"
-      }
+      "imBU8xD68PA",
+      "E2YYqSJIwXo",
+      "bMbzJzBOjCM"
     ]
   },
   {
@@ -1998,10 +1404,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "7StrMbn9kpY",
-        "title": "Zaboor 52 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "7StrMbn9kpY"
     ]
   },
   {
@@ -2022,10 +1425,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "_Ljk0zePMf4",
-        "title": "Zaboor 53 (Asif Bhatti & Ruth Asif)"
-      }
+      "_Ljk0zePMf4"
     ]
   },
   {
@@ -2047,10 +1447,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "M07T9SVZN0Y",
-        "title": "Zaboor 54 (Asif Bhatti & Ruth Asif)"
-      }
+      "M07T9SVZN0Y"
     ]
   },
   {
@@ -2075,22 +1472,10 @@
       "trust"
     ],
     "videos": [
-      {
-        "video_id": "u_d8nXVbBB8",
-        "title": "Zaboor 55 - Hun Te Main Yahowa Aggey"
-      },
-      {
-        "video_id": "rieHhvtkYE4",
-        "title": "Zaboor 55 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bgmHy7dNHdY",
-        "title": "Zaboor 55 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "VTiRtcyVyMM",
-        "title": "Zaboor 55 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "u_d8nXVbBB8",
+      "rieHhvtkYE4",
+      "bgmHy7dNHdY",
+      "VTiRtcyVyMM"
     ]
   },
   {
@@ -2112,14 +1497,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "B01rUKN9Tuc",
-        "title": "Zaboor 56 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "5dXYqVqXQRU",
-        "title": "Zaboor 56 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "B01rUKN9Tuc",
+      "5dXYqVqXQRU"
     ]
   },
   {
@@ -2141,14 +1520,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "9u7ZqEgTJtw",
-        "title": "Zaboor 57 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ACnF9217svw",
-        "title": "Zaboor 57 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "9u7ZqEgTJtw",
+      "ACnF9217svw"
     ]
   },
   {
@@ -2169,14 +1542,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "uHoZ2SP3iE8",
-        "title": "Zaboor 58 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6nIiDdV_RLk",
-        "title": "Zaboor 58 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "uHoZ2SP3iE8",
+      "6nIiDdV_RLk"
     ]
   },
   {
@@ -2198,14 +1565,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "HJqE-Lk_0h4",
-        "title": "Zaboor 59 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CMA99jqX5Ns",
-        "title": "Zaboor 59 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "HJqE-Lk_0h4",
+      "CMA99jqX5Ns"
     ]
   },
   {
@@ -2226,26 +1587,11 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "s1erjdx0udk",
-        "title": "Zaboor 60 Part 3 - Kaun Hai Oh Jo Muhkam"
-      },
-      {
-        "video_id": "5kJiPDpv83I",
-        "title": "Zaboor 60 Part 2 - Taan Jo Tere Sab Pyaare"
-      },
-      {
-        "video_id": "a0wO2WLpK1E",
-        "title": "Zaboor 60 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-VtOjAIEf6s",
-        "title": "Zaboor 60 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "vOiRUQg8U3Q",
-        "title": "Zaboor 60 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "s1erjdx0udk",
+      "5kJiPDpv83I",
+      "a0wO2WLpK1E",
+      "-VtOjAIEf6s",
+      "vOiRUQg8U3Q"
     ]
   },
   {
@@ -2267,14 +1613,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "B4AAh_tcr0Y",
-        "title": "Zaboor 61 - Dua Meri Toon Sun Le"
-      },
-      {
-        "video_id": "hLwzDr-Deno",
-        "title": "Zaboor 61 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "B4AAh_tcr0Y",
+      "hLwzDr-Deno"
     ]
   },
   {
@@ -2299,34 +1639,13 @@
       "salvation"
     ],
     "videos": [
-      {
-        "video_id": "7ZnCFVXMQ7M",
-        "title": "Zaboor 62 - Khudawand Nu Udikdi Reh"
-      },
-      {
-        "video_id": "O_PCfPyFjM8",
-        "title": "Zaboor 62 - Khudawand Nu Udikdi Reh (Masihi Geet)"
-      },
-      {
-        "video_id": "Lim2ckE-Dh0",
-        "title": "Zaboor 62 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CQ1GRUTa4as",
-        "title": "Zaboor 62 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "rOsZS-XeOa4",
-        "title": "Zaboor 62 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "_qYkt7bOEbE",
-        "title": "Zaboor 62 - Khudawand Nu Udeek Di"
-      },
-      {
-        "video_id": "7mg0BSo1Gjc",
-        "title": "Zaboor 62 - Khudawand Nu Udeek Di Reh (Leo Twins)"
-      }
+      "7ZnCFVXMQ7M",
+      "O_PCfPyFjM8",
+      "Lim2ckE-Dh0",
+      "CQ1GRUTa4as",
+      "rOsZS-XeOa4",
+      "_qYkt7bOEbE",
+      "7mg0BSo1Gjc"
     ]
   },
   {
@@ -2347,10 +1666,7 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "htk9axvtbKQ",
-        "title": "Zaboor 63 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "htk9axvtbKQ"
     ]
   },
   {
@@ -2372,10 +1688,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "-Zg5Zcx6SIU",
-        "title": "Zaboor 64 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "-Zg5Zcx6SIU"
     ]
   },
   {
@@ -2396,18 +1709,9 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "_g7ShZEpXyI",
-        "title": "Zaboor 65 - Sehyoun De Vich Oudikdi Humd"
-      },
-      {
-        "video_id": "ssiaWM5dPo8",
-        "title": "Zaboor 65 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "yhNDZQ09iFU",
-        "title": "Zaboor 65 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "_g7ShZEpXyI",
+      "ssiaWM5dPo8",
+      "yhNDZQ09iFU"
     ]
   },
   {
@@ -2432,34 +1736,13 @@
       "thanksgiving"
     ],
     "videos": [
-      {
-        "video_id": "UoDTnEwqHs4",
-        "title": "Zaboor 66 - Sareyo Loko Sade Rab Nu"
-      },
-      {
-        "video_id": "ewIaoVVvuQA",
-        "title": "Zaboor 66 - Khuda Tarso Aao"
-      },
-      {
-        "video_id": "HjtgKsie5sA",
-        "title": "Zaboor 66 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "QzihLea7iJ8",
-        "title": "Zaboor 66 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "pLB7bKK2Stw",
-        "title": "Zaboor 66 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "n8ILJHZJJIE",
-        "title": "Zaboor 66 - Sarayo Louko Sade Raab Nu Dhan Dhan Aakh Ke Gao"
-      },
-      {
-        "video_id": "y9cXpzOruZ0",
-        "title": "Zaboor 66 - Saraoo Loko Sady Rab Nu (Subhash Gill)"
-      }
+      "UoDTnEwqHs4",
+      "ewIaoVVvuQA",
+      "HjtgKsie5sA",
+      "QzihLea7iJ8",
+      "pLB7bKK2Stw",
+      "n8ILJHZJJIE",
+      "y9cXpzOruZ0"
     ]
   },
   {
@@ -2480,10 +1763,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "cgq1ZjprkvE",
-        "title": "Zaboor 67 (Asif Bhatti & Ruth Asif)"
-      }
+      "cgq1ZjprkvE"
     ]
   },
   {
@@ -2504,34 +1784,13 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "5xsnw70eYW8",
-        "title": "Zaboor 68 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Ta_3JJ-Z6NE",
-        "title": "Zaboor 68 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "00K9O4tvGCA",
-        "title": "Zaboor 68 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OAAtnjw5Kq0",
-        "title": "Zaboor 68 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Ny3M_jxASEc",
-        "title": "Zaboor 68 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "RSQ7kn9gduA",
-        "title": "Zaboor 68 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "z67tPk4NTRM",
-        "title": "Zaboor 68 Part 7 (Asif Bhatti & Ruth Asif)"
-      }
+      "5xsnw70eYW8",
+      "Ta_3JJ-Z6NE",
+      "00K9O4tvGCA",
+      "OAAtnjw5Kq0",
+      "Ny3M_jxASEc",
+      "RSQ7kn9gduA",
+      "z67tPk4NTRM"
     ]
   },
   {
@@ -2556,30 +1815,12 @@
       "rescue"
     ],
     "videos": [
-      {
-        "video_id": "8hJ8X5aH-_o",
-        "title": "Zaboor 69 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-8sKVw0ciWU",
-        "title": "Zaboor 69 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "UOEyS2O1kkw",
-        "title": "Zaboor 69 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ciPEdw7jMn0",
-        "title": "Zaboor 69 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "F0BE4MApp7c",
-        "title": "Zaboor 69 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6RzvV2etMN0",
-        "title": "Subha Kay Zaboor - Zaboor 69, 9, 118 (Anil Saani)"
-      }
+      "8hJ8X5aH-_o",
+      "-8sKVw0ciWU",
+      "UOEyS2O1kkw",
+      "ciPEdw7jMn0",
+      "F0BE4MApp7c",
+      "6RzvV2etMN0"
     ]
   },
   {
@@ -2604,42 +1845,15 @@
       "affliction"
     ],
     "videos": [
-      {
-        "video_id": "y3ycTrvgmv4",
-        "title": "Zaboor 69 - Rab Sachmuch"
-      },
-      {
-        "video_id": "8hJ8X5aH-_o",
-        "title": "Zaboor 69 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-8sKVw0ciWU",
-        "title": "Zaboor 69 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "UOEyS2O1kkw",
-        "title": "Zaboor 69 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ciPEdw7jMn0",
-        "title": "Zaboor 69 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "F0BE4MApp7c",
-        "title": "Zaboor 69 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "xLzljjz370s",
-        "title": "Zaboor 69 - Rab Sach Much Osdi Sunda Hai"
-      },
-      {
-        "video_id": "6RzvV2etMN0",
-        "title": "Subha Kay Zaboor - Zaboor 69, 9, 118 (Anil Saani)"
-      },
-      {
-        "video_id": "YunxKPGBppA",
-        "title": "Zaboor 69 (Part V) - Rab Sach Much Os Di Sundha Hai"
-      }
+      "y3ycTrvgmv4",
+      "8hJ8X5aH-_o",
+      "-8sKVw0ciWU",
+      "UOEyS2O1kkw",
+      "ciPEdw7jMn0",
+      "F0BE4MApp7c",
+      "xLzljjz370s",
+      "6RzvV2etMN0",
+      "YunxKPGBppA"
     ]
   },
   {
@@ -2661,14 +1875,8 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "d8uiGScp2OQ",
-        "title": "Zaboor 70 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lfneQ1zrpXM",
-        "title": "Zaboor 70 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "d8uiGScp2OQ",
+      "lfneQ1zrpXM"
     ]
   },
   {
@@ -2690,18 +1898,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "KVzn6-oxrUg",
-        "title": "Zaboor 71 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "xFATy0KTe4w",
-        "title": "Zaboor 71 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bvfD24VpdUs",
-        "title": "Zaboor 71 Part 5 (Asif Bhatti & Ruth Asif)"
-      }
+      "KVzn6-oxrUg",
+      "xFATy0KTe4w",
+      "bvfD24VpdUs"
     ]
   },
   {
@@ -2726,30 +1925,12 @@
       "eternal"
     ],
     "videos": [
-      {
-        "video_id": "mBvYcbc7fSo",
-        "title": "Zaboor 72 - Rahay Ga Naam (Arif Bhatti & Tehmina Tariq)"
-      },
-      {
-        "video_id": "JIQKZuWb5nw",
-        "title": "Zaboor 72 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zpDPGPQX8b0",
-        "title": "Zaboor 72 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "i4zLjnGRvBc",
-        "title": "Zaboor 72 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "M-JyRGVuV1o",
-        "title": "Zaboor 72 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "IgFkcyDMBSw",
-        "title": "Zaboor 72 - Rahay Ga Namm Sada Tikar"
-      }
+      "mBvYcbc7fSo",
+      "JIQKZuWb5nw",
+      "zpDPGPQX8b0",
+      "i4zLjnGRvBc",
+      "M-JyRGVuV1o",
+      "IgFkcyDMBSw"
     ]
   },
   {
@@ -2770,18 +1951,9 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "hZjPzvr2wPg",
-        "title": "Zaboor 73 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "3ALaioCNdVs",
-        "title": "Zaboor 73 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "A6so5IwNTJA",
-        "title": "Zaboor 73 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "hZjPzvr2wPg",
+      "3ALaioCNdVs",
+      "A6so5IwNTJA"
     ]
   },
   {
@@ -2802,22 +1974,10 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "JyHzfXlVUFo",
-        "title": "Zaboor 74 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "vfWpRfxuZAQ",
-        "title": "Zaboor 74 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "wOpEPcsuM9U",
-        "title": "Zaboor 74 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "TGLsuf36NWk",
-        "title": "Zaboor 74 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "JyHzfXlVUFo",
+      "vfWpRfxuZAQ",
+      "wOpEPcsuM9U",
+      "TGLsuf36NWk"
     ]
   },
   {
@@ -2838,14 +1998,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "By-0pT034Sc",
-        "title": "Zaboor 75 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "DHR32oWgs90",
-        "title": "Zaboor 75 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "By-0pT034Sc",
+      "DHR32oWgs90"
     ]
   },
   {
@@ -2866,14 +2020,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "rm2iMvJG__8",
-        "title": "Zaboor 76 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6grYXTd9kcA",
-        "title": "Zaboor 76 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "rm2iMvJG__8",
+      "6grYXTd9kcA"
     ]
   },
   {
@@ -2895,22 +2043,10 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "TmdH_CQj_tk",
-        "title": "Zaboor 77 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "J-PIYF4nQy8",
-        "title": "Zaboor 77 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "fck7hTUgq9Y",
-        "title": "Zaboor 77 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "PUO9Tlt2cSk",
-        "title": "Zaboor 77 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "TmdH_CQj_tk",
+      "J-PIYF4nQy8",
+      "fck7hTUgq9Y",
+      "PUO9Tlt2cSk"
     ]
   },
   {
@@ -2931,50 +2067,17 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "DwiO9fnxa_s",
-        "title": "Zaboor 78 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lTAfvP6_uUU",
-        "title": "Zaboor 78 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "VDqf5tRauUA",
-        "title": "Zaboor 78 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "XZm5p5HF-TY",
-        "title": "Zaboor 78 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-5C6XE_jyro",
-        "title": "Zaboor 78 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "zzpHOD5crUI",
-        "title": "Zaboor 78 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "czP_4Wh0Y8c",
-        "title": "Zaboor 78 Part 7 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LDppZP-hlkc",
-        "title": "Zaboor 78 Part 8 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LkQRYachrf8",
-        "title": "Zaboor 78 Part 9 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "rvRkgA4Lyjk",
-        "title": "Zaboor 78 Part 10 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "SExEeUQgWQs",
-        "title": "Zaboor 78 Part 11 (Asif Bhatti & Ruth Asif)"
-      }
+      "DwiO9fnxa_s",
+      "lTAfvP6_uUU",
+      "VDqf5tRauUA",
+      "XZm5p5HF-TY",
+      "-5C6XE_jyro",
+      "zzpHOD5crUI",
+      "czP_4Wh0Y8c",
+      "LDppZP-hlkc",
+      "LkQRYachrf8",
+      "rvRkgA4Lyjk",
+      "SExEeUQgWQs"
     ]
   },
   {
@@ -2995,10 +2098,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "cdDHZDmZ2jA",
-        "title": "Zaboor 79 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "cdDHZDmZ2jA"
     ]
   },
   {
@@ -3019,18 +2119,9 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "vCOeroqjwu0",
-        "title": "Zaboor 80 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "222GMlq3qqc",
-        "title": "Zaboor 80 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "0aUjg0i1teI",
-        "title": "Zaboor 80 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "vCOeroqjwu0",
+      "222GMlq3qqc",
+      "0aUjg0i1teI"
     ]
   },
   {
@@ -3055,14 +2146,8 @@
       "provision"
     ],
     "videos": [
-      {
-        "video_id": "icgf7-k-sFI",
-        "title": "Zaboor 81 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "kn6SNmYwoA0",
-        "title": "Zaboor 81 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "icgf7-k-sFI",
+      "kn6SNmYwoA0"
     ]
   },
   {
@@ -3083,10 +2168,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "yEbuajBYsDI",
-        "title": "Zaboor 82 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "yEbuajBYsDI"
     ]
   },
   {
@@ -3107,10 +2189,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "-H_ITdgI6vE",
-        "title": "Zaboor 83 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "-H_ITdgI6vE"
     ]
   },
   {
@@ -3135,18 +2214,9 @@
       "pilgrimage"
     ],
     "videos": [
-      {
-        "video_id": "6l__EWZggok",
-        "title": "Zaboor 84 - Khudawanda Tu Lashkaran Da Khuda Hai"
-      },
-      {
-        "video_id": "bjrDTsEdyCY",
-        "title": "Zaboor 84 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "uM9VXjQPSto",
-        "title": "Zaboor 84 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "6l__EWZggok",
+      "bjrDTsEdyCY",
+      "uM9VXjQPSto"
     ]
   },
   {
@@ -3171,30 +2241,12 @@
       "salvation"
     ],
     "videos": [
-      {
-        "video_id": "I4NoMLvt4Cg",
-        "title": "Zaboor 85 - Main Gal Khuda Di Suna Ga (Salatiel Khokhar)"
-      },
-      {
-        "video_id": "mhYhOAZV9kU",
-        "title": "Zaboor 85 - Main Gal Khuda Di"
-      },
-      {
-        "video_id": "z0qW4S1UFz4",
-        "title": "Zaboor 85 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CizNnfzSfSs",
-        "title": "Zaboor 85 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FYzJrSXDzDU",
-        "title": "Zaboor 85 - Main Gal Khuda Di Suna Ga"
-      },
-      {
-        "video_id": "PJSEAbnRjIQ",
-        "title": "Zaboor 85 - Main Gal Khuda Di Suna Ga (Leo Twins)"
-      }
+      "I4NoMLvt4Cg",
+      "mhYhOAZV9kU",
+      "z0qW4S1UFz4",
+      "CizNnfzSfSs",
+      "FYzJrSXDzDU",
+      "PJSEAbnRjIQ"
     ]
   },
   {
@@ -3219,22 +2271,10 @@
       "deliverance"
     ],
     "videos": [
-      {
-        "video_id": "3JMjbviwt1A",
-        "title": "Zaboor 86 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "A5eMViXqVj4",
-        "title": "Zaboor 86 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lcMAyP5Ndks",
-        "title": "Zaboor 86 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "fl-rDQoiBLk",
-        "title": "Zaboor 86 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "3JMjbviwt1A",
+      "A5eMViXqVj4",
+      "lcMAyP5Ndks",
+      "fl-rDQoiBLk"
     ]
   },
   {
@@ -3255,10 +2295,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "kbfp4fqZSNI",
-        "title": "Zaboor 87 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "kbfp4fqZSNI"
     ]
   },
   {
@@ -3280,18 +2317,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "IUEimSG1HFk",
-        "title": "Zaboor 88 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nW9sLhObvv0",
-        "title": "Zaboor 88 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "GnxWGVXBya8",
-        "title": "Zaboor 88 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "IUEimSG1HFk",
+      "nW9sLhObvv0",
+      "GnxWGVXBya8"
     ]
   },
   {
@@ -3312,38 +2340,14 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "39HSYElV9gM",
-        "title": "Zaboor 89 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "rS5Nh0rxyik",
-        "title": "Zaboor 89 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "4jnzgF_Aww8",
-        "title": "Zaboor 89 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "yHCctjiVsAI",
-        "title": "Zaboor 89 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "_YRe2QnilL8",
-        "title": "Zaboor 89 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "yk6L2DL4YEQ",
-        "title": "Zaboor 89 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FeSJSYzCHQw",
-        "title": "Zaboor 89 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "2BXNyV7E1_8",
-        "title": "Zaboor 89 Part 7 (Asif Bhatti & Ruth Asif)"
-      }
+      "39HSYElV9gM",
+      "rS5Nh0rxyik",
+      "4jnzgF_Aww8",
+      "yHCctjiVsAI",
+      "_YRe2QnilL8",
+      "yk6L2DL4YEQ",
+      "FeSJSYzCHQw",
+      "2BXNyV7E1_8"
     ]
   },
   {
@@ -3368,22 +2372,10 @@
       "wrath"
     ],
     "videos": [
-      {
-        "video_id": "MZD8hhu6GgU",
-        "title": "Zaboor 90 - Sadee Badkari Rakhi Hai Sari"
-      },
-      {
-        "video_id": "6MtlAWQc7A4",
-        "title": "Zaboor 90 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "j3kCvx7780A",
-        "title": "Zaboor 90 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "iNxyGBp7CTk",
-        "title": "Zaboor 90 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "MZD8hhu6GgU",
+      "6MtlAWQc7A4",
+      "j3kCvx7780A",
+      "iNxyGBp7CTk"
     ]
   },
   {
@@ -3408,66 +2400,21 @@
       "safety"
     ],
     "videos": [
-      {
-        "video_id": "RoH_TPhIjes",
-        "title": "Zaboor 91 - Khuda De Par De Haithaan (Geet Aur Zaboor)"
-      },
-      {
-        "video_id": "OwpLkFE9rM4",
-        "title": "Zaboor 91 - Khuda De Par De Haithaan (Masihi Zaboor)"
-      },
-      {
-        "video_id": "vZ3XzmWxHto",
-        "title": "Zaboor 91 - Ya Rabb Tu Meri Panah Ha (Masihi Geet)"
-      },
-      {
-        "video_id": "W4VRHYDWUps",
-        "title": "Zaboor 91 - Khuda De Par De Hethan"
-      },
-      {
-        "video_id": "hfeiePvA3Wc",
-        "title": "Zaboor 91 - Ya Rabb Tu Meri Panah Hai"
-      },
-      {
-        "video_id": "98IbvwN-Eog",
-        "title": "Zaboor 91 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ajpLCGu2LPw",
-        "title": "Zaboor 91 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "tVbVSltM7i8",
-        "title": "Zaboor 91 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "iyBmY9cj7sY",
-        "title": "Zaboor 91 - Khuda De Par De Haithan"
-      },
-      {
-        "video_id": "70G4EF3nIto",
-        "title": "Zaboor 91 - Khuda De Par De Haithan Jo"
-      },
-      {
-        "video_id": "VfFzBar1SVU",
-        "title": "Zaboor 91 & 92 - Worship (Ankur Yoseph Narula)"
-      },
-      {
-        "video_id": "pgF5UcqVn64",
-        "title": "Zaboor 91, 35, 23 - Urdu Bible Prayer"
-      },
-      {
-        "video_id": "OBHTbQWtlhA",
-        "title": "Zaboor 91 (Part I) - Khuda Dae Par Dae Haithan"
-      },
-      {
-        "video_id": "EafitLSDIPw",
-        "title": "Zaboor 91 - Punjabi (Sunita Rani)"
-      },
-      {
-        "video_id": "lOVtVCtxbo8",
-        "title": "Zaboor 91 - Khuda De Par De Haithan (Khuram Obaid)"
-      }
+      "RoH_TPhIjes",
+      "OwpLkFE9rM4",
+      "vZ3XzmWxHto",
+      "W4VRHYDWUps",
+      "hfeiePvA3Wc",
+      "98IbvwN-Eog",
+      "ajpLCGu2LPw",
+      "tVbVSltM7i8",
+      "iyBmY9cj7sY",
+      "70G4EF3nIto",
+      "VfFzBar1SVU",
+      "pgF5UcqVn64",
+      "OBHTbQWtlhA",
+      "EafitLSDIPw",
+      "lOVtVCtxbo8"
     ]
   },
   {
@@ -3492,78 +2439,24 @@
       "trust"
     ],
     "videos": [
-      {
-        "video_id": "bg4GIFzMvf0",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai"
-      },
-      {
-        "video_id": "03uMpSmIFIQ",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai (Anil Sani)"
-      },
-      {
-        "video_id": "PjC6xK0XNgA",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai (Masihi Geet)"
-      },
-      {
-        "video_id": "rBeHAIkkHPs",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah"
-      },
-      {
-        "video_id": "Kyg7iVJJ6c0",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah (Ishak Sidhu)"
-      },
-      {
-        "video_id": "orr-eRB_YYY",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai (Zeeshan Tariq)"
-      },
-      {
-        "video_id": "nn8nEPVSpsA",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai (Khuram Obaid)"
-      },
-      {
-        "video_id": "gMfp7l7Pxfk",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah (Punjabi)"
-      },
-      {
-        "video_id": "vZ3XzmWxHto",
-        "title": "Zaboor 91 - Ya Rabb Tu Meri Panah Ha (Masihi Geet)"
-      },
-      {
-        "video_id": "hfeiePvA3Wc",
-        "title": "Zaboor 91 - Ya Rabb Tu Meri Panah Hai"
-      },
-      {
-        "video_id": "98IbvwN-Eog",
-        "title": "Zaboor 91 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ajpLCGu2LPw",
-        "title": "Zaboor 91 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "tVbVSltM7i8",
-        "title": "Zaboor 91 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "RIF-nHaRQW0",
-        "title": "Zaboor 91 - Ya Rab Tu Meri Panah Hai (Zeeshan Tariq)"
-      },
-      {
-        "video_id": "VfFzBar1SVU",
-        "title": "Zaboor 91 & 92 - Worship (Ankur Yoseph Narula)"
-      },
-      {
-        "video_id": "pgF5UcqVn64",
-        "title": "Zaboor 91, 35, 23 - Urdu Bible Prayer"
-      },
-      {
-        "video_id": "OBHTbQWtlhA",
-        "title": "Zaboor 91 (Part I) - Khuda Dae Par Dae Haithan"
-      },
-      {
-        "video_id": "EafitLSDIPw",
-        "title": "Zaboor 91 - Punjabi (Sunita Rani)"
-      }
+      "bg4GIFzMvf0",
+      "03uMpSmIFIQ",
+      "PjC6xK0XNgA",
+      "rBeHAIkkHPs",
+      "Kyg7iVJJ6c0",
+      "orr-eRB_YYY",
+      "nn8nEPVSpsA",
+      "gMfp7l7Pxfk",
+      "vZ3XzmWxHto",
+      "hfeiePvA3Wc",
+      "98IbvwN-Eog",
+      "ajpLCGu2LPw",
+      "tVbVSltM7i8",
+      "RIF-nHaRQW0",
+      "VfFzBar1SVU",
+      "pgF5UcqVn64",
+      "OBHTbQWtlhA",
+      "EafitLSDIPw"
     ]
   },
   {
@@ -3588,42 +2481,15 @@
       "joy"
     ],
     "videos": [
-      {
-        "video_id": "pPLjQidgqNg",
-        "title": "Zaboor 92 - Khurmay De Darakht"
-      },
-      {
-        "video_id": "5w77GOEZvg0",
-        "title": "Zaboor 92 - Teriyaan Siftaan De (Masihi Geet)"
-      },
-      {
-        "video_id": "RpI0NIM4Q6Q",
-        "title": "Zaboor 92 - Teriyaan Siftaan De Gawne Geet"
-      },
-      {
-        "video_id": "5CMcCMiP8to",
-        "title": "Zaboor 92 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "y6BN2p9Nro0",
-        "title": "Zaboor 92 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Pdet2xKtji0",
-        "title": "Zaboor 92 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "pPLe1TmyWrs",
-        "title": "Zaboor 92/118 - Teriyan Siftan De Geet (Mohsin)"
-      },
-      {
-        "video_id": "fSzynQj91Bw",
-        "title": "Zaboor 92/136 - Morning Playlist (Live Worship)"
-      },
-      {
-        "video_id": "mO7mFXpzeKk",
-        "title": "Zaboor 92 - Teriyan Siftan De Gaoney Geet"
-      }
+      "pPLjQidgqNg",
+      "5w77GOEZvg0",
+      "RpI0NIM4Q6Q",
+      "5CMcCMiP8to",
+      "y6BN2p9Nro0",
+      "Pdet2xKtji0",
+      "pPLe1TmyWrs",
+      "fSzynQj91Bw",
+      "mO7mFXpzeKk"
     ]
   },
   {
@@ -3644,10 +2510,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "bltE51dH7tE",
-        "title": "Zaboor 93 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "bltE51dH7tE"
     ]
   },
   {
@@ -3668,18 +2531,9 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "c51I-oem6g0",
-        "title": "Zaboor 94 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "1jEHO9Zk89g",
-        "title": "Zaboor 94 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "_SEWJITwK_0",
-        "title": "Zaboor 94 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "c51I-oem6g0",
+      "1jEHO9Zk89g",
+      "_SEWJITwK_0"
     ]
   },
   {
@@ -3704,18 +2558,9 @@
       "sheep"
     ],
     "videos": [
-      {
-        "video_id": "R3pi6vy9GKY",
-        "title": "Zaboor 95/86/100 - Mazameer"
-      },
-      {
-        "video_id": "jmYJxROLies",
-        "title": "Zaboor 95 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "aU1eURvLs_E",
-        "title": "Zaboor 95 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "R3pi6vy9GKY",
+      "jmYJxROLies",
+      "aU1eURvLs_E"
     ]
   },
   {
@@ -3740,22 +2585,10 @@
       "glory"
     ],
     "videos": [
-      {
-        "video_id": "1Jpqp-ygYfw",
-        "title": "Zaboor 96 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9Kan-3TkFQg",
-        "title": "Zaboor 96 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eH3MkVwmhVI",
-        "title": "Zaboor 96 (Part II) - Saareo Louko Tusi Rabb He Nu Jano"
-      },
-      {
-        "video_id": "dwnwYcvrCKo",
-        "title": "Zaboor 96 (Part 1) - Aao Ik Nawaan Geet"
-      }
+      "1Jpqp-ygYfw",
+      "9Kan-3TkFQg",
+      "eH3MkVwmhVI",
+      "dwnwYcvrCKo"
     ]
   },
   {
@@ -3776,14 +2609,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "kTtiI917F2U",
-        "title": "Zaboor 97 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "z4vseu-G5hg",
-        "title": "Zaboor 97 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "kTtiI917F2U",
+      "z4vseu-G5hg"
     ]
   },
   {
@@ -3804,18 +2631,9 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "3Rd6w51eQQU",
-        "title": "Zaboor 98 Part 1 Version 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "51Cl1y3xQRw",
-        "title": "Zaboor 98 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "o_wWyZneB88",
-        "title": "Zaboor 98 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "3Rd6w51eQQU",
+      "51Cl1y3xQRw",
+      "o_wWyZneB88"
     ]
   },
   {
@@ -3840,18 +2658,9 @@
       "holy"
     ],
     "videos": [
-      {
-        "video_id": "5YsjOVfDsKs",
-        "title": "Zaboor 99 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "GJz3BflPAP4",
-        "title": "Zaboor 99 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "7_AAGw4wjig",
-        "title": "Zaboor 99 - Yahowa Raj Ap Karda Hai"
-      }
+      "5YsjOVfDsKs",
+      "GJz3BflPAP4",
+      "7_AAGw4wjig"
     ]
   },
   {
@@ -3876,18 +2685,9 @@
       "faithfulness"
     ],
     "videos": [
-      {
-        "video_id": "y1qa_z4DKDU",
-        "title": "Zaboor 100 - Aye Sab Zameen De Loko"
-      },
-      {
-        "video_id": "t2mh-ut0DtY",
-        "title": "Zaboor 100 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "7OLL6TjeqT0",
-        "title": "Zaboor 100 - Tehmina Tariq (2025)"
-      }
+      "y1qa_z4DKDU",
+      "t2mh-ut0DtY",
+      "7OLL6TjeqT0"
     ]
   },
   {
@@ -3912,14 +2712,8 @@
       "wisdom"
     ],
     "videos": [
-      {
-        "video_id": "BM7y4ZMhXjE",
-        "title": "Zaboor 101 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "PZCvYCPOrOc",
-        "title": "Zaboor 101 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "BM7y4ZMhXjE",
+      "PZCvYCPOrOc"
     ]
   },
   {
@@ -3941,26 +2735,11 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "wDzzhfWqx8w",
-        "title": "Zaboor 102 - Meri Dowa Hun Pohnchy"
-      },
-      {
-        "video_id": "oEDLNkYLPHA",
-        "title": "Zaboor 102 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "UXC2bkJC078",
-        "title": "Zaboor 102 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "--hWEeSpBMs",
-        "title": "Zaboor 102 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "_sHBuWShlGw",
-        "title": "Zaboor 102 Part 4 (Asif Bhatti & Ruth Asif)"
-      }
+      "wDzzhfWqx8w",
+      "oEDLNkYLPHA",
+      "UXC2bkJC078",
+      "--hWEeSpBMs",
+      "_sHBuWShlGw"
     ]
   },
   {
@@ -3985,42 +2764,15 @@
       "renewal"
     ],
     "videos": [
-      {
-        "video_id": "Vbw6_bleevY",
-        "title": "Zaboor 103 - Tu Aakh Aye Meri Jaan"
-      },
-      {
-        "video_id": "VU0zSVHIUFQ",
-        "title": "Zaboor 103 - Tu Aakh Aye Meri Jaan (Complete)"
-      },
-      {
-        "video_id": "THtHNF2qbf0",
-        "title": "Zaboor 103 - Tu Aakh Aye Meri Jaan (Sewak Voice Studio)"
-      },
-      {
-        "video_id": "RbyD-eiuT9Q",
-        "title": "Zaboor 103 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "343wKpqqKYM",
-        "title": "Zaboor 103 Part 1 Version 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-9qqOw_qwoI",
-        "title": "Zaboor 103 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "aBicBNf2qes",
-        "title": "Zaboor 103 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "p6JgPirKzcY",
-        "title": "Zaboor 103 - Tu Akh Ay Meri Jan (Sanwal Bhatti)"
-      },
-      {
-        "video_id": "trmVyUw1OvE",
-        "title": "Zaboor 103 - Tu Aakh Aye Meri Jaan Mubarak"
-      }
+      "Vbw6_bleevY",
+      "VU0zSVHIUFQ",
+      "THtHNF2qbf0",
+      "RbyD-eiuT9Q",
+      "343wKpqqKYM",
+      "-9qqOw_qwoI",
+      "aBicBNf2qes",
+      "p6JgPirKzcY",
+      "trmVyUw1OvE"
     ]
   },
   {
@@ -4045,58 +2797,19 @@
       "faithfulness"
     ],
     "videos": [
-      {
-        "video_id": "Rtatjswkjaw",
-        "title": "Zaboor 103 - Rehmat Naal Hai Bharya Hoya"
-      },
-      {
-        "video_id": "elOfGACzFBk",
-        "title": "Zaboor 103 - Rehmat Nal Hai Bharya Hoya (Arif Bhatti & Tehmina Tariq)"
-      },
-      {
-        "video_id": "ic0cw-xG-VE",
-        "title": "Zaboor 5 Part 2 - Tere Fazal Te Rehmat Nal (Asif Bhatti)"
-      },
-      {
-        "video_id": "RbyD-eiuT9Q",
-        "title": "Zaboor 103 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "343wKpqqKYM",
-        "title": "Zaboor 103 Part 1 Version 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-9qqOw_qwoI",
-        "title": "Zaboor 103 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "aBicBNf2qes",
-        "title": "Zaboor 103 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9j4VWsEPgQ0",
-        "title": "Zaboor 103 - Rehmat Naal Hai Bharya (Afia Morris)"
-      },
-      {
-        "video_id": "wwLR_xWVoPY",
-        "title": "Zaboor 103 - Rehmat Nal Hai Bharya Hoya"
-      },
-      {
-        "video_id": "y5z2RagB9cU",
-        "title": "Zaboor 103 - Rehmat Naal Hai (Tehmina Tariq)"
-      },
-      {
-        "video_id": "p6JgPirKzcY",
-        "title": "Zaboor 103 - Tu Akh Ay Meri Jan (Sanwal Bhatti)"
-      },
-      {
-        "video_id": "__4vrUbYIcQ",
-        "title": "Zaboor 103 - Rehmat Naal"
-      },
-      {
-        "video_id": "1ogay3d9eMk",
-        "title": "Zaboor 103 - Rehmat Nal Hi Bharya Hoya (Lyrics)"
-      }
+      "Rtatjswkjaw",
+      "elOfGACzFBk",
+      "ic0cw-xG-VE",
+      "RbyD-eiuT9Q",
+      "343wKpqqKYM",
+      "-9qqOw_qwoI",
+      "aBicBNf2qes",
+      "9j4VWsEPgQ0",
+      "wwLR_xWVoPY",
+      "y5z2RagB9cU",
+      "p6JgPirKzcY",
+      "__4vrUbYIcQ",
+      "1ogay3d9eMk"
     ]
   },
   {
@@ -4117,34 +2830,13 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "8vqGQPfTOkg",
-        "title": "Zaboor 104 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6JdK273xts8",
-        "title": "Zaboor 104 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "e1iO5hVnWM8",
-        "title": "Zaboor 104 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "DEmJ2Y8i-pQ",
-        "title": "Zaboor 104 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "BXouYrqhhRY",
-        "title": "Zaboor 104 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9YaGJl2klz4",
-        "title": "Zaboor 104 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "HbPElyM_orY",
-        "title": "Zaboor 104 Part 6 (Asif Bhatti & Ruth Asif)"
-      }
+      "8vqGQPfTOkg",
+      "6JdK273xts8",
+      "e1iO5hVnWM8",
+      "DEmJ2Y8i-pQ",
+      "BXouYrqhhRY",
+      "9YaGJl2klz4",
+      "HbPElyM_orY"
     ]
   },
   {
@@ -4165,26 +2857,11 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "eBucuxFd15M",
-        "title": "Zaboor 105 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-FLHrgxfPIg",
-        "title": "Zaboor 105 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "VsXhScOApLQ",
-        "title": "Zaboor 105 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "b1zjupIl1QQ",
-        "title": "Zaboor 105 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OBQIh9fiiSg",
-        "title": "Zaboor 105 Part 5 (Asif Bhatti & Ruth Asif)"
-      }
+      "eBucuxFd15M",
+      "-FLHrgxfPIg",
+      "VsXhScOApLQ",
+      "b1zjupIl1QQ",
+      "OBQIh9fiiSg"
     ]
   },
   {
@@ -4209,30 +2886,12 @@
       "salvation"
     ],
     "videos": [
-      {
-        "video_id": "4CjrXlyChN4",
-        "title": "Zaboor 106 - Karo Shukar-O-Sana Tusi Rabb Dee"
-      },
-      {
-        "video_id": "_tEildPaokU",
-        "title": "Zaboor 106 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "xoIhOniX_w4",
-        "title": "Zaboor 106 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "POGII3jReyY",
-        "title": "Zaboor 106 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "sRPIqZdKbhg",
-        "title": "Zaboor 106 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eYWmPinTXH8",
-        "title": "Zaboor 106 Part 5 (Asif Bhatti & Ruth Asif)"
-      }
+      "4CjrXlyChN4",
+      "_tEildPaokU",
+      "xoIhOniX_w4",
+      "POGII3jReyY",
+      "sRPIqZdKbhg",
+      "eYWmPinTXH8"
     ]
   },
   {
@@ -4253,26 +2912,11 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "s6mChJJL5_U",
-        "title": "Zaboor 107 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OuMU9mRhO6o",
-        "title": "Zaboor 107 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "mdSYb4rVCKw",
-        "title": "Zaboor 107 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "X4QlKSu8PdU",
-        "title": "Zaboor 107 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "7H8_d5hdzcU",
-        "title": "Zaboor 107 Part 5 (Asif Bhatti & Ruth Asif)"
-      }
+      "s6mChJJL5_U",
+      "OuMU9mRhO6o",
+      "mdSYb4rVCKw",
+      "X4QlKSu8PdU",
+      "7H8_d5hdzcU"
     ]
   },
   {
@@ -4297,22 +2941,10 @@
       "awakening"
     ],
     "videos": [
-      {
-        "video_id": "r_G5OP33TO4",
-        "title": "Zaboor 108 - Mazboot Mera Dil Hai"
-      },
-      {
-        "video_id": "bNGEKmn88VU",
-        "title": "Zaboor 108 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ecj749FJdfc",
-        "title": "Zaboor 108 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "1awDTDWjT0w",
-        "title": "Zaboor 108 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "r_G5OP33TO4",
+      "bNGEKmn88VU",
+      "ecj749FJdfc",
+      "1awDTDWjT0w"
     ]
   },
   {
@@ -4334,18 +2966,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "YFoqwyWW0Nk",
-        "title": "Zaboor 109 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "71ljk-QUqEs",
-        "title": "Zaboor 109 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "AZxfA13NjqU",
-        "title": "Zaboor 109 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "YFoqwyWW0Nk",
+      "71ljk-QUqEs",
+      "AZxfA13NjqU"
     ]
   },
   {
@@ -4366,14 +2989,8 @@
       "messianic"
     ],
     "videos": [
-      {
-        "video_id": "Zdxq9cnF4_E",
-        "title": "Zaboor 110 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Gy5KlUnZHdw",
-        "title": "Zaboor 110 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "Zdxq9cnF4_E",
+      "Gy5KlUnZHdw"
     ]
   },
   {
@@ -4398,22 +3015,10 @@
       "provision"
     ],
     "videos": [
-      {
-        "video_id": "Ali-6Torotw",
-        "title": "Zaboor 111 - Tusi Gao Sana"
-      },
-      {
-        "video_id": "F_uxKVkNZf8",
-        "title": "Zaboor 111 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9-537hnlARU",
-        "title": "Zaboor 111 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "PqU7hJpUx-4",
-        "title": "Zaboor 111 - Tusi Gao Sana (Leo Twins)"
-      }
+      "Ali-6Torotw",
+      "F_uxKVkNZf8",
+      "9-537hnlARU",
+      "PqU7hJpUx-4"
     ]
   },
   {
@@ -4434,10 +3039,7 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "7jZ82l10Huo",
-        "title": "Zaboor 112 (Asif Bhatti & Ruth Asif)"
-      }
+      "7jZ82l10Huo"
     ]
   },
   {
@@ -4458,10 +3060,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "F9qwLlqQCLg",
-        "title": "Zaboor 113 (Asif Bhatti & Ruth Asif)"
-      }
+      "F9qwLlqQCLg"
     ]
   },
   {
@@ -4482,10 +3081,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "PAfSR2Ug0N8",
-        "title": "Zaboor 114 (Asif Bhatti & Ruth Asif)"
-      }
+      "PAfSR2Ug0N8"
     ]
   },
   {
@@ -4506,14 +3102,8 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "uB3kVNuycQo",
-        "title": "Zaboor 115 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lT5_ShvIbnQ",
-        "title": "Zaboor 115 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "uB3kVNuycQo",
+      "lT5_ShvIbnQ"
     ]
   },
   {
@@ -4534,14 +3124,8 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "3HpMq8ZeKlA",
-        "title": "Zaboor 116 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "l0fKWPKfgvw",
-        "title": "Zaboor 116 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "3HpMq8ZeKlA",
+      "l0fKWPKfgvw"
     ]
   },
   {
@@ -4562,10 +3146,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "L52dtBeIivc",
-        "title": "Zaboor 117 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "L52dtBeIivc"
     ]
   },
   {
@@ -4590,18 +3171,9 @@
       "fear"
     ],
     "videos": [
-      {
-        "video_id": "RYLByQWvmXY",
-        "title": "Zaboor 118 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "_j62RzoyYA4",
-        "title": "Zaboor 118 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "BzHzaTo0FWM",
-        "title": "Zaboor 118 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "RYLByQWvmXY",
+      "_j62RzoyYA4",
+      "BzHzaTo0FWM"
     ]
   },
   {
@@ -4626,118 +3198,34 @@
       "treasure"
     ],
     "videos": [
-      {
-        "video_id": "OrXXjYt-Kaw",
-        "title": "Zaboor 119 - Dhann Haal Ohna Da Hai"
-      },
-      {
-        "video_id": "GKNPN4KW-y0",
-        "title": "Zaboor 119 - Jawan Bhala Kis Tarah"
-      },
-      {
-        "video_id": "zPKQhO3UBCA",
-        "title": "Zaboor 119 - Wakh Musibet Meri"
-      },
-      {
-        "video_id": "SPdkuLBG-JQ",
-        "title": "Zaboor 119 - 22 Parts (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "HIW3sMPHOcs",
-        "title": "Zaboor 119 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9dEsfml2OtQ",
-        "title": "Zaboor 119 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OJwjuNYyjXg",
-        "title": "Zaboor 119 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "1-WAmV8VVNw",
-        "title": "Zaboor 119 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "s3zinqFrKUg",
-        "title": "Zaboor 119 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6nFb4mdJiI0",
-        "title": "Zaboor 119 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "N8PaSQfQosg",
-        "title": "Zaboor 119 Part 7 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FFMz7AVhHAg",
-        "title": "Zaboor 119 Part 8 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nWHfzmjAAe8",
-        "title": "Zaboor 119 Part 9 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "YSgv9TcAfRs",
-        "title": "Zaboor 119 Part 10 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "7Jn0ZnJhvRk",
-        "title": "Zaboor 119 Part 11 Version 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "yPIj_zJB6fs",
-        "title": "Zaboor 119 Part 11 Version 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eRQPY2tm_Vo",
-        "title": "Zaboor 119 Part 12 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nwH8IlekF5c",
-        "title": "Zaboor 119 Part 13 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-dluRJmHq2w",
-        "title": "Zaboor 119 Part 14 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Q1ABAetQmKw",
-        "title": "Zaboor 119 Part 15 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lRwaAY6gRRU",
-        "title": "Zaboor 119 Part 16 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "3ZKnCKL7Llo",
-        "title": "Zaboor 119 Part 17 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "x2DTsWKhPoU",
-        "title": "Zaboor 119 Part 18 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bI6x7BQOYtE",
-        "title": "Zaboor 119 Part 19 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eEG099c-HI0",
-        "title": "Zaboor 119 Part 20 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "sgycPwUQkJo",
-        "title": "Zaboor 119 Part 21 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CxC5Fp_3Jlo",
-        "title": "Zaboor 119 Part 22 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bh0Nu7nEboE",
-        "title": "Zaboor 119 (Part 2) - Jawan Bhala Kis Tarah"
-      }
+      "OrXXjYt-Kaw",
+      "GKNPN4KW-y0",
+      "zPKQhO3UBCA",
+      "SPdkuLBG-JQ",
+      "HIW3sMPHOcs",
+      "9dEsfml2OtQ",
+      "OJwjuNYyjXg",
+      "1-WAmV8VVNw",
+      "s3zinqFrKUg",
+      "6nFb4mdJiI0",
+      "N8PaSQfQosg",
+      "FFMz7AVhHAg",
+      "nWHfzmjAAe8",
+      "YSgv9TcAfRs",
+      "7Jn0ZnJhvRk",
+      "yPIj_zJB6fs",
+      "eRQPY2tm_Vo",
+      "nwH8IlekF5c",
+      "-dluRJmHq2w",
+      "Q1ABAetQmKw",
+      "lRwaAY6gRRU",
+      "3ZKnCKL7Llo",
+      "x2DTsWKhPoU",
+      "bI6x7BQOYtE",
+      "eEG099c-HI0",
+      "sgycPwUQkJo",
+      "CxC5Fp_3Jlo",
+      "bh0Nu7nEboE"
     ]
   },
   {
@@ -4762,126 +3250,36 @@
       "law"
     ],
     "videos": [
-      {
-        "video_id": "5XzKRiv9lQc",
-        "title": "Zaboor 119 - Teri Najat De Shauq De Wich"
-      },
-      {
-        "video_id": "OrXXjYt-Kaw",
-        "title": "Zaboor 119 - Dhann Haal Ohna Da Hai"
-      },
-      {
-        "video_id": "18gTtKQzwfI",
-        "title": "Zaboor 119 - Teri Najaat De Shaok De Vich (Lyrics)"
-      },
-      {
-        "video_id": "zPKQhO3UBCA",
-        "title": "Zaboor 119 - Wakh Musibet Meri"
-      },
-      {
-        "video_id": "SPdkuLBG-JQ",
-        "title": "Zaboor 119 - 22 Parts (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "HIW3sMPHOcs",
-        "title": "Zaboor 119 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "9dEsfml2OtQ",
-        "title": "Zaboor 119 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "OJwjuNYyjXg",
-        "title": "Zaboor 119 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "1-WAmV8VVNw",
-        "title": "Zaboor 119 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "s3zinqFrKUg",
-        "title": "Zaboor 119 Part 5 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6nFb4mdJiI0",
-        "title": "Zaboor 119 Part 6 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "N8PaSQfQosg",
-        "title": "Zaboor 119 Part 7 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "FFMz7AVhHAg",
-        "title": "Zaboor 119 Part 8 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nWHfzmjAAe8",
-        "title": "Zaboor 119 Part 9 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "YSgv9TcAfRs",
-        "title": "Zaboor 119 Part 10 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "7Jn0ZnJhvRk",
-        "title": "Zaboor 119 Part 11 Version 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "yPIj_zJB6fs",
-        "title": "Zaboor 119 Part 11 Version 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eRQPY2tm_Vo",
-        "title": "Zaboor 119 Part 12 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nwH8IlekF5c",
-        "title": "Zaboor 119 Part 13 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-dluRJmHq2w",
-        "title": "Zaboor 119 Part 14 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Q1ABAetQmKw",
-        "title": "Zaboor 119 Part 15 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "lRwaAY6gRRU",
-        "title": "Zaboor 119 Part 16 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "3ZKnCKL7Llo",
-        "title": "Zaboor 119 Part 17 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "x2DTsWKhPoU",
-        "title": "Zaboor 119 Part 18 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "bI6x7BQOYtE",
-        "title": "Zaboor 119 Part 19 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "eEG099c-HI0",
-        "title": "Zaboor 119 Part 20 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "sgycPwUQkJo",
-        "title": "Zaboor 119 Part 21 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CxC5Fp_3Jlo",
-        "title": "Zaboor 119 Part 22 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nmGIRtrQlls",
-        "title": "Zaboor 119 - Teri Najaat (Leo Twins)"
-      },
-      {
-        "video_id": "R4u9dIg2Zw8",
-        "title": "Zaboor 119 - Teri Najat Dy (Tehmina Tariq)"
-      }
+      "5XzKRiv9lQc",
+      "OrXXjYt-Kaw",
+      "18gTtKQzwfI",
+      "zPKQhO3UBCA",
+      "SPdkuLBG-JQ",
+      "HIW3sMPHOcs",
+      "9dEsfml2OtQ",
+      "OJwjuNYyjXg",
+      "1-WAmV8VVNw",
+      "s3zinqFrKUg",
+      "6nFb4mdJiI0",
+      "N8PaSQfQosg",
+      "FFMz7AVhHAg",
+      "nWHfzmjAAe8",
+      "YSgv9TcAfRs",
+      "7Jn0ZnJhvRk",
+      "yPIj_zJB6fs",
+      "eRQPY2tm_Vo",
+      "nwH8IlekF5c",
+      "-dluRJmHq2w",
+      "Q1ABAetQmKw",
+      "lRwaAY6gRRU",
+      "3ZKnCKL7Llo",
+      "x2DTsWKhPoU",
+      "bI6x7BQOYtE",
+      "eEG099c-HI0",
+      "sgycPwUQkJo",
+      "CxC5Fp_3Jlo",
+      "nmGIRtrQlls",
+      "R4u9dIg2Zw8"
     ]
   },
   {
@@ -4903,10 +3301,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "zjp0bsf0knk",
-        "title": "Zaboor 120 Part 1 (Asif Bhatti & Ruth Asif)"
-      }
+      "zjp0bsf0knk"
     ]
   },
   {
@@ -4931,34 +3326,13 @@
       "watch"
     ],
     "videos": [
-      {
-        "video_id": "C8YlE20cdyc",
-        "title": "Zaboor 121 - Akhiyan Chukna Han Mein"
-      },
-      {
-        "video_id": "0srJ-4FL8g8",
-        "title": "Zaboor 121 - Akhiyan Chukna Haan Main Wal Pahada"
-      },
-      {
-        "video_id": "h3W-KIFJmts",
-        "title": "Zaboor 121 - Akhiyan Chukna Han"
-      },
-      {
-        "video_id": "xsJgbiWrK8A",
-        "title": "Zaboor 121 - Akhiyan Chukna Han (Tahmina Tariq & Arif Bhatti)"
-      },
-      {
-        "video_id": "03vnc1eqcLo",
-        "title": "Zaboor 121 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "SOE4vI3PbXM",
-        "title": "Zaboor 121 - Akhiyan Chukna Han Mein"
-      },
-      {
-        "video_id": "CwQZWNzQmfI",
-        "title": "Zaboor 121 - Akhiyaan Chukna Haan Main (Faraz Nayyer)"
-      }
+      "C8YlE20cdyc",
+      "0srJ-4FL8g8",
+      "h3W-KIFJmts",
+      "xsJgbiWrK8A",
+      "03vnc1eqcLo",
+      "SOE4vI3PbXM",
+      "CwQZWNzQmfI"
     ]
   },
   {
@@ -4983,58 +3357,19 @@
       "david"
     ],
     "videos": [
-      {
-        "video_id": "_wmskUYPdmk",
-        "title": "Zaboor 122 - Main Khush Hoya Jad Menu Akhan Lagy"
-      },
-      {
-        "video_id": "ZSQPJjerZ28",
-        "title": "Zaboor 122 - Mein Khush Hoya Jad Menu Akhan Lagy"
-      },
-      {
-        "video_id": "gKTk62PJ2DI",
-        "title": "Zaboor 122 - Main Khush Hoya (Leo Twins)"
-      },
-      {
-        "video_id": "tvCU0XTQEbQ",
-        "title": "Zaboor 122 - Main Khush Hoya (Arif Bhatti)"
-      },
-      {
-        "video_id": "Us_jUhK4myk",
-        "title": "Zaboor 122 - Main Khush Hoya Jadun Manu"
-      },
-      {
-        "video_id": "fCM5eyDHrQQ",
-        "title": "Zaboor 122 - Main Khush Hoya Jadon"
-      },
-      {
-        "video_id": "f-7UHUdXoPI",
-        "title": "Zaboor 122 - Main Khush Hoya (Masihi Group)"
-      },
-      {
-        "video_id": "QBMeuDkD5h4",
-        "title": "Zaboor 122 - Main Khush Hoya (Masihi Geet)"
-      },
-      {
-        "video_id": "WMhb68F5Zqg",
-        "title": "Zaboor 122 - Main Khush Hoya (Pastor Ernest Mall)"
-      },
-      {
-        "video_id": "HORCdn3kxzk",
-        "title": "Zaboor 122 - Mein Khush Hoya"
-      },
-      {
-        "video_id": "RoGJvzelgaU",
-        "title": "Zaboor 122 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "-OJwncS34WM",
-        "title": "Zaboor 122 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "Rz-rV2v_i40",
-        "title": "Zaboor 122 (Asif Bhatti & Ruth Asif)"
-      }
+      "_wmskUYPdmk",
+      "ZSQPJjerZ28",
+      "gKTk62PJ2DI",
+      "tvCU0XTQEbQ",
+      "Us_jUhK4myk",
+      "fCM5eyDHrQQ",
+      "f-7UHUdXoPI",
+      "QBMeuDkD5h4",
+      "WMhb68F5Zqg",
+      "HORCdn3kxzk",
+      "RoGJvzelgaU",
+      "-OJwncS34WM",
+      "Rz-rV2v_i40"
     ]
   },
   {
@@ -5055,10 +3390,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "Gch38yYLNN8",
-        "title": "Zaboor 123 (Asif Bhatti & Ruth Asif)"
-      }
+      "Gch38yYLNN8"
     ]
   },
   {
@@ -5079,10 +3411,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "4cWobHoQpCc",
-        "title": "Zaboor 124 (Asif Bhatti & Ruth Asif)"
-      }
+      "4cWobHoQpCc"
     ]
   },
   {
@@ -5103,18 +3432,9 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "H335pa2OFBY",
-        "title": "Zaboor 125 - Aas Jinna Di Tu Hain"
-      },
-      {
-        "video_id": "AiaLTNZnVRc",
-        "title": "Zaboor 125 - Aas Jinan Di Toon Hain"
-      },
-      {
-        "video_id": "_LeQyHsAax8",
-        "title": "Zaboor 125 (Asif Bhatti & Ruth Asif)"
-      }
+      "H335pa2OFBY",
+      "AiaLTNZnVRc",
+      "_LeQyHsAax8"
     ]
   },
   {
@@ -5139,18 +3459,9 @@
       "harvest"
     ],
     "videos": [
-      {
-        "video_id": "YxEdyDaPX3E",
-        "title": "Zaboor 126 - Qaidi Sehuni Yehowa Ney"
-      },
-      {
-        "video_id": "NawXNZOIcb8",
-        "title": "Zaboor 126 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "nhLp2gFgDuY",
-        "title": "Zaboor 126 - Qaidi Sehuni Yehowa"
-      }
+      "YxEdyDaPX3E",
+      "NawXNZOIcb8",
+      "nhLp2gFgDuY"
     ]
   },
   {
@@ -5175,14 +3486,8 @@
       "arrows"
     ],
     "videos": [
-      {
-        "video_id": "OXcGKIGVJFQ",
-        "title": "Zaboor 127 - Jey Yahowa Na Ghar Nu Banawey"
-      },
-      {
-        "video_id": "fAalPc8m2rY",
-        "title": "Zaboor 127 (Asif Bhatti & Ruth Asif)"
-      }
+      "OXcGKIGVJFQ",
+      "fAalPc8m2rY"
     ]
   },
   {
@@ -5203,10 +3508,7 @@
       "teaching"
     ],
     "videos": [
-      {
-        "video_id": "Bo2ABAY8-rk",
-        "title": "Zaboor 128 (Asif Bhatti & Ruth Asif)"
-      }
+      "Bo2ABAY8-rk"
     ]
   },
   {
@@ -5227,10 +3529,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "hwgNX3xcR68",
-        "title": "Zaboor 129 (Asif Bhatti & Ruth Asif)"
-      }
+      "hwgNX3xcR68"
     ]
   },
   {
@@ -5255,14 +3554,8 @@
       "redemption"
     ],
     "videos": [
-      {
-        "video_id": "JOyYOz9QhzI",
-        "title": "Zaboor 130 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "F6x-gNhynx8",
-        "title": "Zaboor 130 - Aye Yahowa Dae Lok"
-      }
+      "JOyYOz9QhzI",
+      "F6x-gNhynx8"
     ]
   },
   {
@@ -5283,10 +3576,7 @@
       "confidence"
     ],
     "videos": [
-      {
-        "video_id": "zxh8e8ZbrP0",
-        "title": "Zaboor 131 (Asif Bhatti & Ruth Asif)"
-      }
+      "zxh8e8ZbrP0"
     ]
   },
   {
@@ -5307,10 +3597,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "hFLnV2hnqng",
-        "title": "Zaboor 132 (Asif Bhatti & Ruth Asif)"
-      }
+      "hFLnV2hnqng"
     ]
   },
   {
@@ -5335,10 +3622,7 @@
       "blessing"
     ],
     "videos": [
-      {
-        "video_id": "rQkACz6mPYg",
-        "title": "Zaboor 133 (Asif Bhatti & Ruth Asif)"
-      }
+      "rQkACz6mPYg"
     ]
   },
   {
@@ -5359,10 +3643,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "SCsK3189K-c",
-        "title": "Zaboor 134 (Asif Bhatti & Ruth Asif)"
-      }
+      "SCsK3189K-c"
     ]
   },
   {
@@ -5383,22 +3664,10 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "2qDxki0Akq8",
-        "title": "Zaboor 135 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "ktjJ5Q6eUQ8",
-        "title": "Zaboor 135 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "wHDT-TG6y2M",
-        "title": "Zaboor 135 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "psQxUkT4Eqs",
-        "title": "Zaboor 135 Part 5 (Asif Bhatti & Ruth Asif)"
-      }
+      "2qDxki0Akq8",
+      "ktjJ5Q6eUQ8",
+      "wHDT-TG6y2M",
+      "psQxUkT4Eqs"
     ]
   },
   {
@@ -5423,34 +3692,13 @@
       "pharaoh"
     ],
     "videos": [
-      {
-        "video_id": "vMGu6wlMpT4",
-        "title": "Zaboor 136 - Shukar Yehowa Da Hi Karo"
-      },
-      {
-        "video_id": "SCT3XcI8d78",
-        "title": "Zaboor 136 - Shukar Yehowah Da He Karo (Arif Bhatti & Tehmina Tariq)"
-      },
-      {
-        "video_id": "tXFPRDODvm4",
-        "title": "Zaboor 136 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "TqQRz-7_n0Y",
-        "title": "Zaboor 136 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "6bHuT417LIQ",
-        "title": "Zaboor 136 - Shukar Yehowah Da - Arif Bhatti"
-      },
-      {
-        "video_id": "8W9T6gHPA8c",
-        "title": "Zaboor 136 - Shuker Yahowa Da Hi Karo (Wasim Iqbal)"
-      },
-      {
-        "video_id": "enytsh0DZNA",
-        "title": "Zaboor 136 - Shukar Yehowa Da Hi Karo"
-      }
+      "vMGu6wlMpT4",
+      "SCT3XcI8d78",
+      "tXFPRDODvm4",
+      "TqQRz-7_n0Y",
+      "6bHuT417LIQ",
+      "8W9T6gHPA8c",
+      "enytsh0DZNA"
     ]
   },
   {
@@ -5471,10 +3719,7 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "Rrwr3eDoR9M",
-        "title": "Zaboor 137 (Asif Bhatti & Ruth Asif)"
-      }
+      "Rrwr3eDoR9M"
     ]
   },
   {
@@ -5495,14 +3740,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "QfT61VQNW0Q",
-        "title": "Zaboor 138 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "CZ9mBmopMxI",
-        "title": "Zaboor 138 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "QfT61VQNW0Q",
+      "CZ9mBmopMxI"
     ]
   },
   {
@@ -5527,34 +3766,13 @@
       "guidance"
     ],
     "videos": [
-      {
-        "video_id": "f5g1e2diOoo",
-        "title": "Zaboor 139 - Khudaya Tere Rooh Tho"
-      },
-      {
-        "video_id": "akRS8zsS3j4",
-        "title": "Zaboor 139 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "u1yjIR04Vjs",
-        "title": "Zaboor 139 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "k0KOWc0MAJ8",
-        "title": "Zaboor 139 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "dsXYvfCQNWY",
-        "title": "Zaboor 139 Part 4 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "TlmJoGeKy8Q",
-        "title": "Zaboor 139 - Khudaya Teri Rooh (Mohsin Bhatti)"
-      },
-      {
-        "video_id": "IgfN5fdXirw",
-        "title": "Zaboor 139 - Khudaya Teri Rooh (Anil Saani)"
-      }
+      "f5g1e2diOoo",
+      "akRS8zsS3j4",
+      "u1yjIR04Vjs",
+      "k0KOWc0MAJ8",
+      "dsXYvfCQNWY",
+      "TlmJoGeKy8Q",
+      "IgfN5fdXirw"
     ]
   },
   {
@@ -5576,18 +3794,9 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "MvbgpqDTjjA",
-        "title": "Zaboor 140 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "NcXYDkaWIlc",
-        "title": "Zaboor 140 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "GP-aiU7OLQU",
-        "title": "Zaboor 140 Part 3 (Asif Bhatti & Ruth Asif)"
-      }
+      "MvbgpqDTjjA",
+      "NcXYDkaWIlc",
+      "GP-aiU7OLQU"
     ]
   },
   {
@@ -5612,22 +3821,10 @@
       "evil"
     ],
     "videos": [
-      {
-        "video_id": "BoNUfAaCkM8",
-        "title": "Zaboor 141 - Yahowa Main Pukar Da Haan"
-      },
-      {
-        "video_id": "KbNMZcTf3oM",
-        "title": "Zaboor 141 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "gjFuocHheRA",
-        "title": "Zaboor 141 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "RBmKEzoekHs",
-        "title": "Zaboor 141 - Yahowa Main Pukar Da (Zeeshan Tariq)"
-      }
+      "BoNUfAaCkM8",
+      "KbNMZcTf3oM",
+      "gjFuocHheRA",
+      "RBmKEzoekHs"
     ]
   },
   {
@@ -5649,10 +3846,7 @@
       "distress"
     ],
     "videos": [
-      {
-        "video_id": "A8CdWi8FD2M",
-        "title": "Zaboor 142 (Asif Bhatti & Ruth Asif)"
-      }
+      "A8CdWi8FD2M"
     ]
   },
   {
@@ -5677,14 +3871,8 @@
       "thirst"
     ],
     "videos": [
-      {
-        "video_id": "VYBF7SCeTu0",
-        "title": "Zaboor 143 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "UWMzLgBw3BE",
-        "title": "Zaboor 143 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "VYBF7SCeTu0",
+      "UWMzLgBw3BE"
     ]
   },
   {
@@ -5705,14 +3893,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "tolBTZvgvYY",
-        "title": "Zaboor 144 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "y6y1RSUmnFg",
-        "title": "Zaboor 144 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "tolBTZvgvYY",
+      "y6y1RSUmnFg"
     ]
   },
   {
@@ -5737,34 +3919,13 @@
       "wonders"
     ],
     "videos": [
-      {
-        "video_id": "PCRtA7sPhx8",
-        "title": "Zaboor 145 - Aye Mere Shah Khudawanda"
-      },
-      {
-        "video_id": "b2VrD2LKOYY",
-        "title": "Zaboor 145 - Aye Mere Shah Khudawanda (Arif Bhatti & Tehmina Tariq)"
-      },
-      {
-        "video_id": "jJDUcfd2Nvo",
-        "title": "Zaboor 145 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "MTjHnNTrfjA",
-        "title": "Zaboor 145 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "uQ0zb7lnJL4",
-        "title": "Zaboor 145 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "af7BGT-3jh4",
-        "title": "Zaboor 145 (Part I) - Aye Mere Shah Khudawanda"
-      },
-      {
-        "video_id": "oviJ5yuVo3Q",
-        "title": "Zaboor 145 - Nahayat Hai Rahim"
-      }
+      "PCRtA7sPhx8",
+      "b2VrD2LKOYY",
+      "jJDUcfd2Nvo",
+      "MTjHnNTrfjA",
+      "uQ0zb7lnJL4",
+      "af7BGT-3jh4",
+      "oviJ5yuVo3Q"
     ]
   },
   {
@@ -5789,26 +3950,11 @@
       "creation"
     ],
     "videos": [
-      {
-        "video_id": "jJDUcfd2Nvo",
-        "title": "Zaboor 145 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "MTjHnNTrfjA",
-        "title": "Zaboor 145 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "uQ0zb7lnJL4",
-        "title": "Zaboor 145 Part 3 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "oviJ5yuVo3Q",
-        "title": "Zaboor 145 - Nahayat Hai Rahim"
-      },
-      {
-        "video_id": "03RtTs1BXAU",
-        "title": "Zaboor 145 - Nihayat Hai Raheem Khuda (Leo Twins)"
-      }
+      "jJDUcfd2Nvo",
+      "MTjHnNTrfjA",
+      "uQ0zb7lnJL4",
+      "oviJ5yuVo3Q",
+      "03RtTs1BXAU"
     ]
   },
   {
@@ -5829,14 +3975,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "VD0LaGvskUU",
-        "title": "Zaboor 146 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "BxoVsKEY9WM",
-        "title": "Zaboor 146 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "VD0LaGvskUU",
+      "BxoVsKEY9WM"
     ]
   },
   {
@@ -5857,14 +3997,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "lPZw06qeA-M",
-        "title": "Zaboor 147 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "K4aX-PmOnbU",
-        "title": "Zaboor 147 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "lPZw06qeA-M",
+      "K4aX-PmOnbU"
     ]
   },
   {
@@ -5889,38 +4023,14 @@
       "heavens"
     ],
     "videos": [
-      {
-        "video_id": "0Fu7IhyQV_g",
-        "title": "Zaboor 148 - Karo Rabb Dee Hun Wadayee"
-      },
-      {
-        "video_id": "Zd5ifAjunIs",
-        "title": "Zaboor 148 - Karo Rabb Dee Hun Wadayee"
-      },
-      {
-        "video_id": "dssWoN2YzqE",
-        "title": "Zaboor 148 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "cEz0GR2MHbI",
-        "title": "Zaboor 148 Part 1 Version 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "3hcbmT7ivc0",
-        "title": "Zaboor 148 Part 2 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "LM1dgoXH2QA",
-        "title": "Zaboor 148 - Karo Rab Di Hun Wadyaai (Gulfraz Raja)"
-      },
-      {
-        "video_id": "nrR_Z7e8OsM",
-        "title": "Zaboor 148 - Karo Sitaish Yahowah Hi Di"
-      },
-      {
-        "video_id": "Ex9S8ng2tDk",
-        "title": "Zaboor 100 - Aye Sub Zameen Dae Loko Tareef Karo Rabb Di"
-      }
+      "0Fu7IhyQV_g",
+      "Zd5ifAjunIs",
+      "dssWoN2YzqE",
+      "cEz0GR2MHbI",
+      "3hcbmT7ivc0",
+      "LM1dgoXH2QA",
+      "nrR_Z7e8OsM",
+      "Ex9S8ng2tDk"
     ]
   },
   {
@@ -5941,14 +4051,8 @@
       "worship"
     ],
     "videos": [
-      {
-        "video_id": "Ew3aiwz-n3w",
-        "title": "Zaboor 149 Part 1 (Asif Bhatti & Ruth Asif)"
-      },
-      {
-        "video_id": "om7rXBGmFbY",
-        "title": "Zaboor 149 Part 2 (Asif Bhatti & Ruth Asif)"
-      }
+      "Ew3aiwz-n3w",
+      "om7rXBGmFbY"
     ]
   },
   {
@@ -5973,14 +4077,8 @@
       "everything"
     ],
     "videos": [
-      {
-        "video_id": "SH8310C7oU8",
-        "title": "Zaboor 150 - Hallelujah Sana Gao"
-      },
-      {
-        "video_id": "P9WOwVisp70",
-        "title": "Zaboor 150 (Asif Bhatti & Ruth Asif)"
-      }
+      "SH8310C7oU8",
+      "P9WOwVisp70"
     ]
   },
   {
@@ -6129,10 +4227,7 @@
       "yessu"
     ],
     "videos": [
-      {
-        "video_id": "Nf7DHQoqUt4",
-        "title": "Ata Hoon Tere Hazoor - Masih Geet (Wasim Iqbal)"
-      }
+      "Nf7DHQoqUt4"
     ]
   },
   {
@@ -9227,10 +7322,7 @@
       "mohabbat"
     ],
     "videos": [
-      {
-        "video_id": "w962uJcyl_E",
-        "title": "Mera Khuda Mera Naal Naal Hai (Azzi Vishal)"
-      }
+      "w962uJcyl_E"
     ]
   },
   {
